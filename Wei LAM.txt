@@ -1,0 +1,1781 @@
+CO3: Low-resource Contrastive Co-training for Generative Conversational Query Rewrite
+Authors: Yifei Yuan, Chen Shi, Runze Wang, Liyi Chen, Renjun Hu, Zengming Zhang, Feijun Jiang, Wai Lam
+Publication date: 2024/3/18
+Journal: arXiv preprint arXiv:2403.11873
+
+Unveiling the Generalization Power of Fine-Tuned Large Language Models
+Authors: Haoran Yang, Yumeng Zhang, Jiaqi Xu, Hongyuan Lu, Pheng Ann Heng, Wai Lam
+Publication date: 2024/3/14
+Journal: arXiv preprint arXiv:2403.09162
+
+Exploring Safety Generalization Challenges of Large Language Models via Code
+Authors: Qibing Ren, Chang Gao, Jing Shao, Junchi Yan, Xin Tan, Wai Lam, Lizhuang Ma
+Publication date: 2024/3/12
+Journal: arXiv preprint arXiv:2403.07865
+
+Consecutive Model Editing with Batch alongside HooK Layers
+Authors: Shuaiyi Li, Yang Deng, Deng Cai, Hongyuan Lu, Liang Chen, Wai Lam
+Publication date: 2024/3/8
+Journal: arXiv preprint arXiv:2403.05330
+
+Revamping Multilingual Agreement Bidirectionally via Switched Back-translation for Multilingual Neural Machine Translation
+Authors: Hongyuan Lu, Haoyang Huang, Dongdong Zhang, Furu Wei, Wai Lam
+Publication date: 2024/3
+Conference: Findings of the Association for Computational Linguistics: EACL 2024
+
+From Cloze to Comprehension: Retrofitting Pre-trained Masked Language Models to Pre-trained Machine Reader
+Authors: Weiwen Xu, Xin Li, Wenxuan Zhang, Meng Zhou, Wai Lam, Luo Si, Lidong Bing
+Publication date: 2024/2/13
+Journal: Advances in Neural Information Processing Systems
+
+Asking Multimodal Clarifying Questions in Mixed-Initiative Conversational Search
+Authors: Yifei Yuan, Clemencia Siro, Mohammad Aliannejadi, Maarten de Rijke, Wai Lam
+Publication date: 2024/2/12
+Journal: arXiv preprint arXiv:2402.07742
+
+A thorough examination of decoding methods in the era of llms
+Authors: Chufan Shi, Haoran Yang, Deng Cai, Zhisong Zhang, Yifan Wang, Yujiu Yang, Wai Lam
+Publication date: 2024/2/10
+Journal: arXiv preprint arXiv:2402.06925
+
+Reasons to reject? aligning language models with judgments
+Authors: Weiwen Xu, Deng Cai, Zhisong Zhang, Wai Lam, Shuming Shi
+Publication date: 2023/12/22
+Journal: arXiv preprint arXiv:2312.14591
+
+TRIP: Accelerating Document-level Multilingual Pre-training via Triangular Document-level Pre-training on Parallel Data Triplets
+Authors: Hongyuan Lu, Haoyang Huang, Shuming Ma, Dongdong Zhang, Wai Lam, Zhaochuan Gao, Anthony Aue, Arul Menezes, Furu Wei
+Publication date: 2023/12
+Conference: Findings of the Association for Computational Linguistics: EMNLP 2023
+
+Once upon a time in graph: Relative-time pretraining for complex temporal reasoning
+Authors: Sen Yang, Xin Li, Lidong Bing, Wai Lam
+Publication date: 2023/12
+Conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing
+
+Multimodal Fashion Knowledge Extraction as Captioning
+Authors: Yifei Yuan, Wenxuan Zhang, Yang Deng, Wai Lam
+Publication date: 2023/11/26
+
+Neuro-symbolic integration brings causal and reliable reasoning proofs
+Authors: Sen Yang, Xin Li, Leyang Cui, Lidong Bing, Wai Lam
+Publication date: 2023/11/16
+Journal: arXiv preprint arXiv:2311.09802
+
+Strategyllm: Large language models as strategy generators, executors, optimizers, and evaluators for problem solving
+Authors: Chang Gao, Haiyun Jiang, Deng Cai, Shuming Shi, Wai Lam
+Publication date: 2023/11/15
+Journal: arXiv preprint arXiv:2311.08803
+
+Once Upon a in : Relative-Time Pretraining for Complex Temporal Reasoning
+Authors: Sen Yang, Xin Li, Lidong Bing, Wai Lam
+Publication date: 2023/10/23
+Journal: arXiv preprint arXiv:2310.14709
+
+DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text
+Authors: Shuaiyi Li, Yang Deng, Wai Lam
+Publication date: 2023/10/19
+Journal: arXiv preprint arXiv:2310.12557
+
+Plug-and-play policy planner for large language model powered dialogue agents
+Authors: Yang Deng, Wenxuan Zhang, Wai Lam, See-Kiong Ng, Tat-Seng Chua
+Publication date: 2023/10/13
+Conference: The Twelfth International Conference on Learning Representations
+
+Social media fashion knowledge extraction as captioning
+Authors: Yifei Yuan, Wenxuan Zhang, Yang Deng, Wai Lam
+Publication date: 2023/9/28
+Journal: arXiv preprint arXiv:2309.16270
+
+EPA: Easy Prompt Augmentation on Large Language Models via Multiple Sources and Multiple Targets
+Authors: Hongyuan Lu, Wai Lam
+Publication date: 2023/9/9
+Journal: arXiv preprint arXiv:2309.04725
+
+Learning to ask clarification questions with spatial reasoning
+Authors: Yang Deng, Shuaiyi Li, Wai Lam
+Publication date: 2023/7/19
+
+Functional Distributional Semantics at Scale
+Authors: Chun Hei Lo, Hong Cheng, Wai Lam, Guy Emerson
+Publication date: 2023/7
+Conference: Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (* SEM 2023)
+
+On the effectiveness of parameter-efficient fine-tuning
+Authors: Zihao Fu, Haoran Yang, Anthony Man-Cho So, Wai Lam, Lidong Bing, Nigel Collier
+Publication date: 2023/6/26
+Journal: Proceedings of the AAAI Conference on Artificial Intelligence
+
+Enhancing grammatical error correction systems with explanations
+Authors: Yuejiao Fei, Leyang Cui, Sen Yang, Wai Lam, Zhenzhong Lan, Shuming Shi
+Publication date: 2023/5/25
+Journal: arXiv preprint arXiv:2305.15676
+
+mpmr: A multilingual pre-trained machine reader at scale
+Authors: Weiwen Xu, Xin Li, Wai Lam, Lidong Bing
+Publication date: 2023/5/23
+Journal: arXiv preprint arXiv:2305.13645
+
+A frustratingly simple decoding method for neural text generation
+Authors: Haoran Yang, Deng Cai, Huayang Li, Wei Bi, Wai Lam, Shuming Shi
+Publication date: 2023/5/22
+Journal: arXiv preprint arXiv:2305.12675
+
+Knowledge-enhanced mixed-initiative dialogue system for emotional support conversations
+Authors: Yang Deng, Wenxuan Zhang, Yifei Yuan, Wai Lam
+Publication date: 2023/5/17
+Journal: arXiv preprint arXiv:2305.10172
+
+Chain-of-symbol prompting elicits planning in large langauge models
+Authors: Hanxu Hu, Hongyuan Lu, Huajian Zhang, Wai Lam, Yue Zhang
+Publication date: 2023/5/17
+Journal: arXiv preprint arXiv:2305.10276
+
+Progressive Translation: Improving Domain Robustness of Neural Machine Translation with Intermediate Sequences
+Authors: Chaojun Wang, Yang Liu, Wai Lam
+Publication date: 2023/5/16
+Journal: arXiv preprint arXiv:2305.09154
+
+Easy-to-hard learning for information extraction
+Authors: Chang Gao, Wenxuan Zhang, Wai Lam, Lidong Bing
+Publication date: 2023/5/16
+Journal: arXiv preprint arXiv:2305.09193
+
+Chain-of-dictionary prompting elicits translation in large language models
+Authors: Hongyuan Lu, Haoyang Huang, Dongdong Zhang, Haoran Yang, Wai Lam, Furu Wei
+Publication date: 2023/5/11
+Journal: arXiv preprint arXiv:2305.06575
+
+A survey on proactive dialogue systems: Problems, methods, and prospects
+Authors: Yang Deng, Wenqiang Lei, Wai Lam, Tat-Seng Chua
+Publication date: 2023/5/4
+Journal: arXiv preprint arXiv:2305.02750
+
+Bridging the Gap between Pre-Training and Fine-Tuning for Commonsense Generation
+Authors: Haoran Yang, Yan Wang, Piji Li, Wei Bi, Wai Lam, Chen Xu
+Publication date: 2023/5
+Conference: Findings of the Association for Computational Linguistics: EACL 2023
+
+Decoder-only or encoder-decoder? interpreting language model as a regularized encoder-decoder
+Authors: Zihao Fu, Wai Lam, Qian Yu, Anthony Man-Cho So, Shengding Hu, Zhiyuan Liu, Nigel Collier
+Publication date: 2023/4/8
+Journal: arXiv preprint arXiv:2304.04052
+
+Nonfactoid question answering as query-focused summarization with graph-enhanced multihop inference
+Authors: Yang Deng, Wenxuan Zhang, Weiwen Xu, Ying Shen, Wai Lam
+Publication date: 2023/3/28
+Journal: IEEE Transactions on Neural Networks and Learning Systems
+
+Product question answering in e-commerce: A survey
+Authors: Yang Deng, Wenxuan Zhang, Qian Yu, Wai Lam
+Publication date: 2023/2/16
+Journal: arXiv preprint arXiv:2302.08092
+
+A unified multi-task learning framework for multi-goal conversational recommender systems
+Authors: Yang Deng, Wenxuan Zhang, Weiwen Xu, Wenqiang Lei, Tat-Seng Chua, Wai Lam
+Publication date: 2023/2/7
+Journal: ACM Transactions on Information Systems
+
+Joint learning of text alignment and abstractive summarization for long documents via unbalanced optimal transport
+Authors: Xin Shen, Wai Lam, Shumin Ma, Huadong Wang
+Publication date: 2023
+Journal: Natural Language Engineering
+
+A survey on aspect-based sentiment analysis: Tasks, methods, and challenges
+Authors: Wenxuan Zhang, Xin Li, Yang Deng, Lidong Bing, Wai Lam
+Publication date: 2022/12/21
+Journal: IEEE Transactions on Knowledge and Data Engineering
+
+Advancing Multilingual Pre-training: TRIP Triangular Document-level Pre-training for Multilingual Language Models
+Authors: Hongyuan Lu, Haoyang Huang, Shuming Ma, Dongdong Zhang, Wai Lam, Furu Wei
+Publication date: 2022/12/15
+Journal: arXiv preprint arXiv:2212.07752
+
+Leveraging long short-term user preference in conversational recommendation via multi-agent reinforcement learning
+Authors: Yang Deng, Yaliang Li, Bolin Ding, Wai Lam
+Publication date: 2022/11/28
+Journal: IEEE Transactions on Knowledge and Data Engineering
+
+Towards generalizable and robust text-to-sql parsing
+Authors: Chang Gao, Bowen Li, Wenxuan Zhang, Wai Lam, Binhua Li, Fei Huang, Luo Si, Yongbin Li
+Publication date: 2022/10/23
+Journal: arXiv preprint arXiv:2210.12674
+
+McQueen: a benchmark for multimodal conversational query rewrite
+Authors: Yifei Yuan, Chen Shi, Runze Wang, Liyi Chen, Feijun Jiang, Yuan You, Wai Lam
+Publication date: 2022/10/23
+Journal: arXiv preprint arXiv:2210.12775
+
+Retrofitting multilingual sentence embeddings with Abstract Meaning Representation
+Authors: Deng Cai, Xin Li, Jackie Chun-Sing Ho, Lidong Bing, Wai Lam
+Publication date: 2022/10/18
+Journal: arXiv preprint arXiv:2210.09773
+
+ConReader: Exploring implicit relations in contracts for contract clause extraction
+Authors: Weiwen Xu, Yang Deng, Wenqiang Lei, Wenlong Zhao, Tat-Seng Chua, Wai Lam
+Publication date: 2022/10/17
+Journal: arXiv preprint arXiv:2210.08697
+
+Peerda: Data augmentation via modeling peer relation for span identification tasks
+Authors: Weiwen Xu, Xin Li, Yang Deng, Wai Lam, Lidong Bing
+Publication date: 2022/10/17
+Journal: arXiv preprint arXiv:2210.08855
+
+PACIFIC: towards proactive conversational question answering over tabular and textual data in finance
+Authors: Yang Deng, Wenqiang Lei, Wenxuan Zhang, Wai Lam, Tat-Seng Chua
+Publication date: 2022/10/17
+Journal: arXiv preprint arXiv:2210.08817
+
+Informative Text Generation from Knowledge Triples
+Authors: Zihao Fu, Yijiang River Dong, Lidong Bing, Wai Lam
+Publication date: 2022/9/26
+Journal: arXiv preprint arXiv:2209.12733
+
+PCC: Paraphrasing with Bottom-k Sampling and Cyclic Learning for Curriculum Data Augmentation
+Authors: Hongyuan Lu, Wai Lam
+Publication date: 2022/8/17
+Journal: arXiv preprint arXiv:2208.08110
+
+Partner personas generation for dialogue response generation
+Authors: Hongyuan Lu, Wai Lam, Hong Cheng, Helen Meng
+Publication date: 2022/7
+Conference: Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies
+
+On Controlling Fallback Responses for Grounded Dialogue Generation
+Authors: Hongyuan Lu, Wai Lam, Hong Cheng, Helen Meng
+Publication date: 2022/5
+Conference: Findings of the Association for Computational Linguistics: ACL 2022
+
+Semantic Composition with PSHRG for Derivation Tree Reconstruction from Graph-Based Meaning Representations
+Authors: Chun Hei Lo, Wai Lam, Hong Cheng
+Publication date: 2022/5
+Conference: Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+
+User satisfaction estimation with sequential dialogue act modeling in goal-oriented conversational systems
+Authors: Yang Deng, Wenxuan Zhang, Wai Lam, Hong Cheng, Helen Meng
+Publication date: 2022/4/25
+
+UniGDD: A unified generative framework for goal-oriented document-grounded dialogue
+Authors: Chang Gao, Wenxuan Zhang, Wai Lam
+Publication date: 2022/4/16
+Journal: arXiv preprint arXiv:2204.07770
+
+Parameter-Efficient Tuning by Manipulating Hidden States of Pretrained Language Models For Classification Tasks
+Authors: Haoran Yang, Piji Li, Wai Lam
+Publication date: 2022/4/10
+Journal: arXiv preprint arXiv:2204.04596
+
+Search Clarification Selection via Query-Intent-Clarification Graph Attention
+Authors: Chang Gao, Wai Lam
+Publication date: 2022/4/5
+
+Improved Divide-and-Conquer Approach to Abstractive Summarization of Scientific Papers
+Authors: Xin Shen, Wai Lam
+Publication date: 2022/3/25
+Conference: 2022 4th International Conference on Natural Language Processing (ICNLP)
+
+Toward personalized answer generation in e-commerce via multi-perspective preference modeling
+Authors: Yang Deng, Yaliang Li, Wenxuan Zhang, Bolin Ding, Wai Lam
+Publication date: 2022/3/10
+Journal: ACM Transactions on Information Systems (TOIS)
+
+Improving Lexical Embeddings for Robust Question Answering
+Authors: Weiwen Xu, Bowei Zou, Wai Lam, Ai Ti Aw
+Publication date: 2022/2/28
+Journal: arXiv preprint arXiv:2202.13636
+
+Sentiment analysis of fashion related posts in social media
+Authors: Yifei Yuan, Wai Lam
+Publication date: 2022/2/11
+
+TRIP: Triangular Document-level Pre-training for Multilingual Language Models.
+Authors: Hongyuan Lu, Haoyang Huang, Shuming Ma, Dongdong Zhang, Wai Lam, Furu Wei
+Publication date: 2022
+Journal: arXiv preprint arXiv:2212.07752
+
+From clozing to comprehending: Retrofitting pre-trained language model to pre-trained machine reader
+Authors: Weiwen Xu, Xin Li, Wenxuan Zhang, Meng Zhou, Lidong Bing, Wai Lam, Luo Si
+Publication date: 2022
+Journal: arXiv preprint arXiv:2212.04755
+
+Towards Multilingual Transitivity and Bidirectional Multilingual Agreement for Multilingual Document-level Machine Translation.
+Authors: Hongyuan Lu, Haoyang Huang, Shuming Ma, Dongdong Zhang, Furu Wei, Wai Lam
+Publication date: 2022
+Journal: CoRR
+
+A two-stage training framework with feature-label matching mechanism for learning from label proportions
+Authors: Haoran Yang, Wanjing Zhang, Wai Lam
+Publication date: 2021/11/28
+Conference: Asian Conference on Machine Learning
+
+Partner personas generation for diverse dialogue generation
+Authors: Hongyuan Lu, Wai Lam, Hong Cheng, Helen M Meng
+Publication date: 2021/11/27
+Journal: arXiv preprint arXiv:2111.13833
+
+Aspect-based sentiment analysis in question answering forums
+Authors: Wenxuan Zhang, Yang Deng, Xin Li, Lidong Bing, Wai Lam
+Publication date: 2021/11
+Conference: Findings of the Association for Computational Linguistics: EMNLP 2021
+
+Cross-lingual aspect-based sentiment analysis with aspect term code-switching
+Authors: Wenxuan Zhang, Ruidan He, Haiyun Peng, Lidong Bing, Wai Lam
+Publication date: 2021/11
+Conference: Proceedings of the 2021 conference on empirical methods in natural language processing
+
+Coregen: Contextualized code representation learning for commit message generation
+Authors: Lun Yiu Nie, Cuiyun Gao, Zhicong Zhong, Wai Lam, Yang Liu, Zenglin Xu
+Publication date: 2021/10/12
+Journal: Neurocomputing
+
+Aspect sentiment quad prediction as paraphrase generation
+Authors: Wenxuan Zhang, Yang Deng, Xin Li, Yifei Yuan, Lidong Bing, Wai Lam
+Publication date: 2021/10/2
+Journal: arXiv preprint arXiv:2110.00796
+
+Multilingual AMR parsing with noisy knowledge distillation
+Authors: Deng Cai, Xin Li, Jackie Chun-Sing Ho, Lidong Bing, Wai Lam
+Publication date: 2021/9/30
+Journal: arXiv preprint arXiv:2109.15196
+
+Exploiting reasoning chains for multi-hop science question answering
+Authors: Weiwen Xu, Yang Deng, Huihui Zhang, Deng Cai, Wai Lam
+Publication date: 2021/9/7
+Journal: arXiv preprint arXiv:2109.02905
+
+Contextualized knowledge-aware attentive neural network: Enhancing answer selection with knowledge
+Authors: Yang Deng, Yuexiang Xie, Yaliang Li, Min Yang, Wai Lam, Ying Shen
+Publication date: 2021/9/7
+Journal: ACM Transactions on Information Systems (TOIS)
+
+Contrastive representation learning for exemplar-guided paraphrase generation
+Authors: Haoran Yang, Wai Lam, Piji Li
+Publication date: 2021/9/3
+Journal: arXiv preprint arXiv:2109.01484
+
+Towards domain-generalizable paraphrase identification by avoiding the shortcut learning
+Authors: Xin Shen, Wai Lam
+Publication date: 2021/9
+Conference: Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021)
+
+Sentence Structure and Word Relationship Modeling for Emphasis Selection
+Authors: Haoran Yang, Wai Lam
+Publication date: 2021/8/29
+Journal: arXiv preprint arXiv:2108.12750
+
+Towards generative aspect-based sentiment analysis
+Authors: Wenxuan Zhang, Xin Li, Yang Deng, Lidong Bing, Wai Lam
+Publication date: 2021/8
+Conference: Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers)
+
+Conversational fashion image retrieval via multiturn natural language feedback
+Authors: Yifei Yuan, Wai Lam
+Publication date: 2021/7/11
+
+Unified conversational recommendation policy learning via graph-based reinforcement learning
+Authors: Yang Deng, Yaliang Li, Fei Sun, Bolin Ding, Wai Lam
+Publication date: 2021/7/11
+
+Using Latent Fine-Grained Sentiment for Cross-Domain Sentiment Analysis
+Authors: Kwun-Ping Lai, Jackie Chun-Sing Ho, Wai Lam
+Publication date: 2021/7/1
+Journal: International Journal of Knowledge-Based Organizations (IJKBO)
+
+Learning to rank question answer pairs with bilateral contrastive data augmentation
+Authors: Yang Deng, Wenxuan Zhang, Wai Lam
+Publication date: 2021/6/21
+Journal: arXiv preprint arXiv:2106.11096
+
+Dynamic semantic graph construction and reasoning for explainable multi-hop science question answering
+Authors: Weiwen Xu, Huihui Zhang, Deng Cai, Wai Lam
+Publication date: 2021/5/25
+Journal: arXiv preprint arXiv:2105.11776
+
+Neural machine translation with monolingual translation memory
+Authors: Deng Cai, Yan Wang, Huayang Li, Wai Lam, Lemao Liu
+Publication date: 2021/5/24
+Journal: arXiv preprint arXiv:2105.11269
+
+A theoretical analysis of the repetition problem in text generation
+Authors: Zihao Fu, Wai Lam, Anthony Man-Cho So, Bei Shi
+Publication date: 2021/5/18
+Journal: Proceedings of the AAAI Conference on Artificial Intelligence
+
+Unstructured Knowledge Access in Task-oriented Dialog Modeling using Language Inference, Knowledge Retrieval and Knowledge-Integrative Response Generation
+Authors: Mudit Chaudhary, Borislav Dzodzo, Sida Huang, Chun Hei Lo, Mingzhi Lyu, Lun Yiu Nie, Jinbo Xing, Tianhua Zhang, Xiaoying Zhang, Jingyan Zhou, Hong Cheng, Wai Lam, Helen Meng
+Publication date: 2021/1/15
+Journal: arXiv preprint arXiv:2101.06066
+
+Exploiting Domain-Aware Aspect Similarity for Multi-Source Cross-Domain Sentiment Classification
+Authors: Kwun-Ping Lai, Jackie Chun-Sing Ho, Wai Lam
+Publication date: 2021
+Journal: Advances in Science, Technology and Engineering Systems Journal
+
+Narrative incoherence detection
+Authors: Deng Cai, Yizhe Zhang, Yichen Huang, Wai Lam, Bill Dolan
+Publication date: 2020/12/21
+Journal: arXiv preprint arXiv:2012.11157
+
+Ensemble Model for Multi-Source Cross-Domain Sentiment Classification with Little Labeled Data
+Authors: Kwun-Ping Lai, Jackie Chun-Sing Ho, Wai Lam
+Publication date: 2020/12/14
+Conference: 2020 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
+
+Unsupervised kb-to-text generation with auxiliary triple extraction using dual learning
+Authors: Zihao Fu, Bei Shi, Lidong Bing, Wai Lam
+Publication date: 2020/12
+Conference: Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing
+
+Point-of-Interest Oriented Question Answering with Joint Inference of Semantic Matching and Distance Correlation
+Authors: Yifei Yuan, Jingbo Zhou, Wai Lam
+Publication date: 2020/12
+Conference: Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing
+
+Answering product-related questions with heterogeneous information
+Authors: Wenxuan Zhang, Qian Yu, Wai Lam
+Publication date: 2020/12
+Conference: Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing
+
+Intra-/Inter-Interaction Network with Latent Interaction Modeling for Multi-turn Response Selection
+Authors: Yang Deng, Wenxuan Zhang, Wai Lam
+Publication date: 2020/12
+Conference: Proceedings of the 28th International Conference on Computational Linguistics
+
+AnswerFact: Fact checking in product question answering
+Authors: Wenxuan Zhang, Yang Deng, Jing Ma, Wai Lam
+Publication date: 2020/11
+Conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
+
+Unsupervised cross-lingual adaptation for sequence tagging and beyond
+Authors: Xin Li, Lidong Bing, Wenxuan Zhang, Zheng Li, Wai Lam
+Publication date: 2020/10/23
+Journal: arXiv preprint arXiv:2010.12405
+
+Opinion-aware answer generation for review-driven question answering in e-commerce
+Authors: Yang Deng, Wenxuan Zhang, Wai Lam
+Publication date: 2020/10/19
+
+Multi-hop inference for question-driven summarization
+Authors: Yang Deng, Wenxuan Zhang, Wai Lam
+Publication date: 2020/10/8
+Journal: arXiv preprint arXiv:2010.03738
+
+Partially-aligned data-to-text generation with distant supervision
+Authors: Zihao Fu, Bei Shi, Wai Lam, Lidong Bing, Zhiyuan Liu
+Publication date: 2020/10/3
+Journal: arXiv preprint arXiv:2010.01268
+
+Enhancing dialogue generation via multi-level contrastive learning
+Authors: Xin Li, Piji Li, Yan Wang, Xiaojiang Liu, Wai Lam
+Publication date: 2020/9/19
+Journal: arXiv preprint arXiv:2009.09147
+
+Soft Kernel-based Ranking on a Statistical Manifold
+Authors: Xinshi Lin, Wai Lam
+Publication date: 2020/7/25
+
+Bridging hierarchical and sequential context modeling for question-driven extractive answer summarization
+Authors: Yang Deng, Wenxuan Zhang, Yaliang Li, Min Yang, Wai Lam, Ying Shen
+Publication date: 2020/7/25
+
+Answer ranking for product-related questions via multiple semantic relations modeling
+Authors: Wenxuan Zhang, Yang Deng, Wai Lam
+Publication date: 2020/7/25
+
+Domain-aware recurrent neural network for cross-domain sentiment classification
+Authors: Kwun-Ping Lai, Wai Lam, Jackie CS Ho
+Publication date: 2020/7/24
+
+guided Helpful Answer Identification in E-commerce
+Authors: Wenxuan Zhang, Wai Lam, Yang Deng, Jing Ma
+Publication date: 2020/4/20
+
+AMR parsing via graph-sequence iterative inference
+Authors: Deng Cai, Wai Lam
+Publication date: 2020/4/12
+Journal: arXiv preprint arXiv:2004.05572
+
+Salience estimation with multi-attention learning for abstractive text summarization
+Authors: Piji Li, Lidong Bing, Zhongyu Wei, Wai Lam
+Publication date: 2020/4/7
+Journal: arXiv preprint arXiv:2004.03589
+
+Open domain event text generation
+Authors: Zihao Fu, Lidong Bing, Wai Lam
+Publication date: 2020/4/3
+Journal: Proceedings of the AAAI Conference on Artificial Intelligence
+
+Relevance-promoting language model for short-text conversation
+Authors: Xin Li, Piji Li, Wei Bi, Xiaojiang Liu, Wai Lam
+Publication date: 2020/4/3
+Journal: Proceedings of the AAAI Conference on Artificial Intelligence
+
+Joint learning of answer selection and answer summary generation in community question answering
+Authors: Yang Deng, Wai Lam, Yuexiang Xie, Daoyuan Chen, Yaliang Li, Min Yang, Ying Shen
+Publication date: 2020/4/3
+Journal: Proceedings of the AAAI Conference on Artificial Intelligence
+
+Graph transformer for graph-to-sequence learning
+Authors: Deng Cai, Wai Lam
+Publication date: 2020/4/3
+Journal: Proceedings of the AAAI conference on artificial intelligence
+
+Contextualized code representation learning for commit message generation
+Authors: Lun Yiu Nie, Cuiyun Gao, Zhicong Zhong, Wai Lam, Yang Liu, Zenglin Xu
+Publication date: 2020
+Journal: arXiv preprint arXiv:2007.06934
+
+Does pay transparency affect how employees bargain for idiosyncratic terms?
+Authors: Man-Nok Wong, Wai-Yuan Leon Lam, Bonnie Cheng
+Publication date: 2020
+Journal: Academy of Management Proceedings
+
+Dynamic topic tracker for kb-to-text generation
+Authors: Fu Zihao, Lidong Bing, Lam Wai, Mohammad Shoaib Jameel
+Publication date: 2020/1/1
+Journal: COLING 2020-28th International Conference on Computational Linguistics, Proceedings of the Conference
+
+Cross-domain sentiment classification using topic attention and dual-task adversarial training
+Authors: Kwun-Ping Lai, Jackie Chun-Sing Ho, Wai Lam
+Publication date: 2020
+Conference: Artificial Neural Networks and Machine Learning–ICANN 2020: 29th International Conference on Artificial Neural Networks, Bratislava, Slovakia, September 15–18, 2020, Proceedings, Part II 29
+
+Context-aware helpfulness prediction for online product reviews
+Authors: Iyiola E Olatunji, Xin Li, Wai Lam
+Publication date: 2019/11/7
+
+based Question Generation with Adaptive Instance Transfer and Augmentation
+Authors: Qian Yu, Lidong Bing, Qiong Zhang, Wai Lam, Luo Si
+Publication date: 2019/11/5
+Journal: arXiv preprint arXiv:1911.01556
+
+Exploiting BERT for end-to-end aspect-based sentiment analysis
+Authors: Xin Li, Lidong Bing, Wenxuan Zhang, Wai Lam
+Publication date: 2019/10/2
+Journal: arXiv preprint arXiv:1910.00883
+
+Tackling long-tailed relations and uncommon entities in knowledge graph completion
+Authors: Zihao Wang, Kwun Ping Lai, Piji Li, Lidong Bing, Wai Lam
+Publication date: 2019/9/25
+Journal: arXiv preprint arXiv:1909.11359
+
+Core semantic first: A top-down approach for AMR parsing
+Authors: Deng Cai, Wai Lam
+Publication date: 2019/9/10
+Journal: arXiv preprint arXiv:1909.04303
+
+Data augmentation based on adversarial autoencoder handling imbalance for learning to rank
+Authors: Qian Yu, Wai Lam
+Publication date: 2019/7/17
+Journal: Proceedings of the AAAI Conference on Artificial Intelligence
+
+A unified model for opinion target extraction and target sentiment prediction
+Authors: Xin Li, Lidong Bing, Piji Li, Wai Lam
+Publication date: 2019/7/17
+Journal: Proceedings of the AAAI conference on artificial intelligence
+
+Word embedding as maximum a posteriori estimation
+Authors: Shoaib Jameel, Zihao Fu, Bei Shi, Wai Lam, Steven Schockaert
+Publication date: 2019/7/17
+Journal: Proceedings of the AAAI Conference on Artificial Intelligence
+
+Persona-aware tips generation?
+Authors: Piji Li, Zihao Wang, Lidong Bing, Wai Lam
+Publication date: 2019/5/13
+
+Fact Discovery from Knowledge Base via Facet Decomposition
+Authors: Zihao Fu, Yankai Lin, Zhiyuan Liu, Wai Lam
+Publication date: 2019/4/21
+Journal: arXiv preprint arXiv:1904.09540
+
+Pay transparency, pay structure, and idiosyncratic deals
+Authors: Wai Yuan Leon Lam
+Publication date: 2019
+
+CUIS at the ntcir-14 STC-3 DQ subtask
+Authors: Kai Cong, Wai Lam
+Publication date: 2019
+Journal: Proceedings of the 14th NTCIR Conference on Evaluation of Information Access Technologies
+
+Skeleton-to-response: Dialogue generation guided by retrieval memory
+Authors: Deng Cai, Yan Wang, Victoria Bi, Zhaopeng Tu, Xiaojiang Liu, Wai Lam, Shuming Shi
+Publication date: 2018/9/14
+Journal: arXiv preprint arXiv:1809.05296
+
+Entity retrieval in the knowledge graph with hierarchical entity type and content
+Authors: Xinshi Lin, Wai Lam, Kwun Ping Lai
+Publication date: 2018/9/10
+
+Product question intent detection using indicative clause attention and adversarial learning
+Authors: Qian Yu, Wai Lam
+Publication date: 2018/9/10
+
+A learning framework for information block search based on probabilistic graphical models and Fisher Kernel
+Authors: Tak-Lam Wong, Haoran Xie, Wai Lam, Fu Lee Wang
+Publication date: 2018/9
+Journal: International Journal of Machine Learning and Cybernetics
+
+Responding e-commerce product questions via exploiting qa collections and reviews
+Authors: Qian Yu, Wai Lam, Zihao Wang
+Publication date: 2018/8
+Conference: Proceedings of the 27th International Conference on Computational Linguistics
+
+Reader Comment Digest through Latent Event Facets and News Specificity
+Authors: Bei Shi, Wai Lam
+Publication date: 2018/7/25
+Journal: IEEE Transactions on Knowledge and Data Engineering
+
+Learning a unified embedding space of web search from large-scale query log
+Authors: Lidong Bing, Zheng-Yu Niu, Piji Li, Wai Lam, Haifeng Wang
+Publication date: 2018/6/15
+Journal: Knowledge-Based Systems
+
+Learning Domain-Sensitive and Sentiment-Aware Word Embeddings
+Authors: Bei Shi, Zihao Fu, Lidong Bing, Wai Lam
+Publication date: 2018/5/10
+Journal: ACL, 2018
+
+Transformation Networks for Target-Oriented Sentiment Classification
+Authors: Xin Li, Lidong Bing, Wai Lam, Bei Shi
+Publication date: 2018/5/3
+Journal: ACL, 2018
+
+Aspect Term Extraction with History Attention and Selective Transformation
+Authors: Xin Li, Lidong Bing, Piji Li, Wai Lam, Zhimou Yang
+Publication date: 2018/5/2
+Journal: IJCAI, 2018
+
+QuaSE: Accurate Text Style Transfer under Quantifiable Guidance
+Authors: Yi Liao, Lidong Bing, Piji Li, Shuming Shi, Wai Lam, Tong Zhang
+Publication date: 2018/4/19
+Journal: arXiv preprint arXiv:1804.07007
+
+Actor-critic based training framework for abstractive summarization
+Authors: Piji Li, Lidong Bing, Wai Lam
+Publication date: 2018/3/28
+Journal: arXiv preprint arXiv:1803.11070
+
+Joint modeling of participant influence and latent topics for recommendation in event-based social networks
+Authors: Yi Liao, Wai Lam, Lidong Bing, Xin Shen
+Publication date: 2018/3/13
+Journal: ACM Transactions on Information Systems (TOIS)
+
+Entity retrieval via type taxonomy aware smoothing
+Authors: Xinshi Lin, Wai Lam
+Publication date: 2018/3/1
+
+Aware answer prediction for product-related questions incorporating aspects
+Authors: Qian Yu, Wai Lam
+Publication date: 2018/2/2
+
+CUIS Team at TREC 2018 CAR Track.
+Authors: Xinshi Lin, Wai Lam
+Publication date: 2018
+Conference: TREC
+
+Guiding Approximate Text Classification Rules via Context Information
+Authors: Wai Chung Wong, Sunny Lai, Wai Lam, Kwong Sak Leung
+Publication date: 2018
+Conference: Information Retrieval Technology: 14th Asia Information Retrieval Societies Conference, AIRS 2018, Taipei, Taiwan, November 28-30, 2018, Proceedings 14
+
+Quase: Sequence editing under quantifiable guidance
+Authors: Yi Liao, Lidong Bing, Piji Li, Shuming Shi, Wai Lam, Tong Zhang
+Publication date: 2018
+Conference: Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing
+
+Incorporating pseudo-parallel data for quantifiable sequence editing
+Authors: Yi Liao, Lidong Bing, Piji Li, Shuming Shi, Wai Lam, Tong Zhang
+Publication date: 2018
+Journal: arXiv preprint arXiv:1804.07007
+
+Deep multi-task learning for aspect term extraction with memory interaction
+Authors: Xin Li, Wai Lam
+Publication date: 2017/9
+Conference: Proceedings of the 2017 conference on empirical methods in natural language processing
+
+Cascaded attention based unsupervised information distillation for compressive summarization
+Authors: Piji Li, Wai Lam, Lidong Bing, Weiwei Guo, Hang Li
+Publication date: 2017/9
+Conference: Proceedings of the 2017 conference on empirical methods in natural language processing
+
+Jointly learning word embeddings and latent topics
+Authors: Bei Shi, Wai Lam, Shoaib Jameel, Steven Schockaert, Kwun Ping Lai
+Publication date: 2017/8/7
+
+Neural rating regression with abstractive tips generation for recommendation
+Authors: Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam
+Publication date: 2017/8/7
+
+Reader-aware multi-document summarization: An enhanced model and the first dataset
+Authors: Piji Li, Lidong Bing, Wai Lam
+Publication date: 2017/8/3
+Journal: arXiv preprint arXiv:1708.01065
+
+Deep recurrent generative decoder for abstractive text summarization
+Authors: Piji Li, Wai Lam, Lidong Bing, Zihao Wang
+Publication date: 2017/8/2
+Journal: arXiv preprint arXiv:1708.00625
+
+Exploiting interactions of review text, hidden user communities and item groups, and time for collaborative filtering
+Authors: Yinqing Xu, Qian Yu, Wai Lam, Tianyi Lin
+Publication date: 2017/7
+Journal: Knowledge and Information Systems
+
+A new hybrid method for learning bayesian networks: Separation and reunion
+Authors: Hui Liu, Shuigeng Zhou, Wai Lam, Jihong Guan
+Publication date: 2017/4/1
+Journal: Knowledge-Based Systems
+
+Salience estimation via variational auto-encoders for multi-document summarization
+Authors: Piji Li, Zihao Wang, Wai Lam, Zhaochun Ren, Lidong Bing
+Publication date: 2017/2/12
+Journal: Proceedings of the AAAI Conference on Artificial Intelligence
+
+CUIS Team for NTCIR-13 AKG Task.
+Authors: Xinshi Lin, Wai Lam, Shubham Sharma
+Publication date: 2017
+Conference: NTCIR
+
+Towards a language-independent solution: Knowledge base completion by searching the Web and deriving language pattern
+Authors: Lidong Bing, Zhiming Zhang, Wai Lam, William W Cohen
+Publication date: 2017/1/1
+Journal: Knowledge-Based Systems
+
+Whether this participant will attract you to this event? exploiting participant influence for event recommendation
+Authors: Yi Liao, Xinshi Lin, Wai Lam
+Publication date: 2016/12/12
+Conference: 2016 IEEE 16th International Conference on Data Mining (ICDM)
+
+Digesting news reader comments via fine-grained associations with event facets and news contents
+Authors: Bei Shi, Wai Lam
+Publication date: 2016/10/24
+
+Digesting Multilingual Reader Comments via Latent Discussion Topics with Commonality and Specificity
+Authors: Bei Shi, Wai Lam, Lidong Bing, Yinqing Xu
+Publication date: 2016/10/24
+
+Learning a semantic space of web search via session data
+Authors: Lidong Bing, Zheng-Yu Niu, Wai Lam, Haifeng Wang
+Publication date: 2016/10/15
+
+Exploring urban lifestyles using a nonparametric temporal graphical model
+Authors: Shoaib Jameel, Yi Liao, Wai Lam, Steven Schockaert, Xing Xie
+Publication date: 2016/9/12
+
+Who wants to join me? Companion recommendation in location based social networks
+Authors: Yi Liao, Wai Lam, Shoaib Jameel, Steven Schockaert, Xing Xie
+Publication date: 2016/9/12
+
+Exploring influence among participants for event recommendation
+Authors: Yi Liao, Xinshi Lin, Wai Lam
+Publication date: 2016/8/18
+Conference: 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)
+
+Detecting common discussion topics across culture from news reader comments
+Authors: Bei Shi, Wai Lam, Lidong Bing, Yinqing Xu
+Publication date: 2016/8
+Conference: Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+
+Unsupervised extraction of popular product attributes from e-commerce web sites by considering customer reviews
+Authors: Lidong Bing, Tak-Lam Wong, Wai Lam
+Publication date: 2016/4/15
+Journal: ACM Transactions on Internet Technology (TOIT)
+
+A joint framework for collaborative filtering and metric learning
+Authors: Tak-Lam Wong, Wai Lam, Haoran Xie, Fu Lee Wang
+Publication date: 2016
+Conference: Information Retrieval Technology: 12th Asia Information Retrieval Societies Conference, AIRS 2016, Beijing, China, November 30–December 2, 2016, Proceedings 12
+
+CUIS at the NTCIR-12 MobileClick2 Task.
+Authors: Kwun Ping Lai, Wai Lam, Lidong Bing
+Publication date: 2016
+Conference: NTCIR
+
+Abstract Venue Concept Detection from Location-Based Social Networks
+Authors: Yi Liao, Shoaib Jameel, Wai Lam, Xing Xie
+Publication date: 2015/12/2
+
+A unified posterior regularized topic model with maximum margin for learning-to-rank
+Authors: Shoaib Jameel, Wai Lam, Steven Schockaert, Lidong Bing
+Publication date: 2015/10/17
+
+Supervised topic models with word order structure for document classification and retrieval learning
+Authors: Shoaib Jameel, Wai Lam, Lidong Bing
+Publication date: 2015/8
+Journal: Information Retrieval Journal
+
+Entity retrieval via entity factoid hierarchy
+Authors: Chunliang Lu, Wai Lam, Yi Liao
+Publication date: 2015/7
+Conference: Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)
+
+A unified model for unsupervised opinion spamming detection incorporating text generality
+Authors: Yinqing Xu, Bei Shi, Wentao Tian, Wai Lam
+Publication date: 2015/6/22
+Conference: Twenty-fourth international joint conference on artificial intelligence
+
+Abstractive multi-document summarization via phrase selection and merging
+Authors: Lidong Bing, Piji Li, Yi Liao, Wai Lam, Weiwei Guo, Rebecca J Passonneau
+Publication date: 2015/6/4
+Conference: The Annual Meeting of the Association for Computational Linguistics (ACL)
+
+Reader-aware multi-document summarization via sparse coding
+Authors: Piji Li, Lidong Bing, Wai Lam, Hang Li, Yi Liao
+Publication date: 2015/4/28
+Journal: arXiv preprint arXiv:1504.07324
+
+Nonparametric topic modeling using chinese restaurant franchise with buddy customers
+Authors: Shoaib Jameel, Wai Lam, Lidong Bing
+Publication date: 2015/3/29
+
+Web query reformulation via joint modeling of latent topic dependency and term context
+Authors: Lidong Bing, Wai Lam, Tak-Lam Wong, Shoaib Jameel
+Publication date: 2015/2/17
+Journal: ACM Transactions on Information Systems (TOIS)
+
+Topic modeling for conference analytics
+Authors: Pengfei Liu, Shoaib Jameel, Wai Lam, Bin Ma, Helen Meng
+Publication date: 2015/1/1
+Journal: Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH
+
+Adaptive concept resolution for document representation and its applications in text mining
+Authors: Lidong Bing, Shan Jiang, Wai Lam, Yan Zhang, Shoaib Jameel
+Publication date: 2015/1/1
+Journal: Knowledge-Based Systems
+
+Collaborative filtering incorporating review text and co-clusters of hidden user communities and item groups
+Authors: Yinqing Xu, Wai Lam, Tianyi Lin
+Publication date: 2014/11/3
+
+Latent aspect mining via exploring sparsity and intrinsic information
+Authors: Yinqing Xu, Tianyi Lin, Wai Lam, Zirui Zhou, Hong Cheng, Anthony Man-Cho So
+Publication date: 2014/11/3
+
+Hidden Aspect Rating Discovery from Text Reviews of E-Commerce Web Sites
+Authors: Yinqing Xu, Wai Lam, Rui Fan
+Publication date: 2014/8/4
+
+Web page segmentation with structured prediction and its application in web page classification
+Authors: Lidong Bing, Rui Guo, Wai Lam, Zheng-Yu Niu, Haifeng Wang
+Publication date: 2014/7/3
+
+Website community mining from query logs with two-phase clustering
+Authors: Lidong Bing, Wai Lam, Shoaib Jameel, Chunliang Lu
+Publication date: 2014/4/6
+
+Knowledge base refinement using limited amount of efforts from experts
+Authors: Ki Chan, Wai Lam, Tak-Lam Wong
+Publication date: 2014/4/1
+Journal: International Journal of Knowledge-Based Organizations (IJKBO)
+
+A nonparametric n-gram topic model with interpretable latent topics
+Authors: Shoaib Jameel, Wai Lam
+Publication date: 2013/12/9
+
+Robust detection of semi-structured web records using a dom structure-knowledge-driven model
+Authors: Lidong Bing, Wai Lam, Tak-Lam Wong
+Publication date: 2013/11/1
+Journal: ACM Transactions on the Web (TWEB)
+
+Structured positional entity language model for enterprise entity retrieval
+Authors: Chunliang Lu, Lidong Bing, Wai Lam
+Publication date: 2013/10/27
+
+An unsupervised topic segmentation model incorporating word order
+Authors: Shoaib Jameel, Wai Lam
+Publication date: 2013/7/28
+
+Web Entity Detection for Semi-structured Text Data Records with Unlabeled Data.
+Authors: Chunliang Lu, Lidong Bing, Wai Lam, Ki Chan, Yuan Gu
+Publication date: 2013/7
+Journal: Int. J. Comput. Linguistics Appl.
+
+An N-gram topic model for time-stamped documents
+Authors: Shoaib Jameel, Wai Lam
+Publication date: 2013/3/24
+
+Wikipedia entity expansion and attribute extraction from the web using semi-supervised learning
+Authors: Lidong Bing, Wai Lam, Tak-Lam Wong
+Publication date: 2013/2/4
+
+Unsupervised extraction of popular product attributes from web sites
+Authors: Lidong Bing, Tak-Lam Wong, Wai Lam
+Publication date: 2012/12/17
+
+Ranking text documents based on conceptual difficulty using term embedding and sequential discourse cohesion
+Authors: Shoaib Jameel, Wai Lam, Xiaojun Qian
+Publication date: 2012/12/4
+Conference: 2012 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology
+
+N-gram fragment sequence based unsupervised domain-specific document readability
+Authors: Shoaib Jameel, Xiaojun Qian, Wai Lam
+Publication date: 2012/12
+Conference: Proceedings of COLING 2012
+
+Discovering low-rank shared concept space for adapting text mining models
+Authors: Bo Chen, Wai Lam, Ivor W Tsang, Tak-Lam Wong
+Publication date: 2012/11/10
+Journal: IEEE transactions on pattern analysis and machine intelligence
+
+Probabilistic joint models incorporating logic and learning via structured variational approximation for information extraction
+Authors: Xiaofeng Yu, Wai Lam
+Publication date: 2012/8
+Journal: Knowledge and information systems
+
+N-gram Fragment Based Domain-Specific Readability Ranking Model for Text Documents
+Authors: Shoaib Jameel, Wai Lam
+Publication date: 2012/7/23
+
+Twitter user modeling and tweets recommendation based on wikipedia concept graph
+Authors: Chunliang Lu, Wai Lam, Yingxiao Zhang
+Publication date: 2012/7/15
+Conference: Workshops at the Twenty-Sixth AAAI conference on artificial intelligence
+
+An unsupervised technical difficulty ranking model based on conceptual terrain in the latent space
+Authors: Shoaib Jameel, Wai Lam, Xiaojun Qian, Ching-man Au Yeung
+Publication date: 2012/6/10
+
+Towards a unified solution
+Authors: Lidong Bing, Wai Lam, Yuan Gu
+Publication date: 2011/10/24
+Journal: Proceedings of the 20th ACM international conference on Information and knowledge management
+
+An unsupervised ranking method based on a technical difficulty terrain
+Authors: Shoaib Jameel, Wai Lam, Ching-man Au Yeung, Sheaujiun Chyan
+Publication date: 2011/10/24
+
+Towards a unified solution: data record region detection and segmentation
+Authors: Lidong Bing, Wai Lam, Yuan Gu
+Publication date: 2011/10/24
+
+Using query log and social tagging to refine queries based on latent topics
+Authors: Lidong Bing, Wai Lam, Tak-Lam Wong
+Publication date: 2011/10/24
+
+Ontology enhancement and concept granularity learning: Keeping yourself current and adaptive
+Authors: Shan Jiang, Lidong Bing, Bai Sun, Yan Zhang, Wai Lam
+Publication date: 2011/8/21
+
+Normalizing web product attributes and discovering domain ontology with minimal effort
+Authors: Tak-Lam Wong, Lidong Bing, Wai Lam
+Publication date: 2011/2/9
+
+Investigation of web query refinement via topic analysis and learning with personalization
+Authors: Lidong Bing, Wai Lam
+Publication date: 2011
+Journal: Proceedings of the 2nd SIGIR Workshop on Query Representation and Understanding (SIGIR-QRU)
+
+Pseudo Conditional Random Fields: Joint Training Approach to Segmenting and Labeling Sequence Data
+Authors: Shing-Kit Chan, Wai Lam
+Publication date: 2010/12/13
+Conference: 2010 IEEE International Conference on Data Mining
+
+Location and scatter matching for dataset shift in text mining
+Authors: Bo Chen, Wai Lam, Ivor Tsang, Tak-Lam Wong
+Publication date: 2010/12/13
+Conference: 2010 IEEE International Conference on Data Mining
+
+Learning ontology resolution for document representation and its applications in text mining
+Authors: Lidong Bing, Bai Sun, Shan Jiang, Yan Zhang, Wai Lam
+Publication date: 2010/10/26
+
+Accommodating New Relations for e-Business Text Mining Applications
+Authors: Ki Chan, Wai Lam, Tak-Lam Wong
+Publication date: 2010/10/21
+Conference: 2010 First International Conference on Networking and Distributed Computing
+
+Accelerated training of maximum margin Markov models for sequence labeling: A case study of NP chunking
+Authors: Xiaofeng Yu, Wai Lam
+Publication date: 2010/8
+Conference: Coling 2010: Posters
+
+Jointly identifying entities and extracting relations in encyclopedia text via a graphical model approach
+Authors: Xiaofeng Yu, Wai Lam
+Publication date: 2010/8
+Conference: Coling 2010: Posters
+
+Adapting relational logic models using unlabeled data
+Authors: Ki Chan, Tak-Lam Wong, Wai Lam
+Publication date: 2010/7/11
+Conference: 2010 International Conference on Machine Learning and Cybernetics
+
+Bidirectional integration of pipeline models
+Authors: Xiaofeng Yu, Wai Lam
+Publication date: 2010/7/4
+Journal: Proceedings of the AAAI Conference on Artificial Intelligence
+
+Discovery of logic relations for text mining adaptation using unlabeled data
+Authors: Ki Chan, Wai Lam, Tak-Lam Wong
+Publication date: 2010/4/28
+
+Logic relation refinement using unlabeled data
+Authors: Ki Chan, Tak-Lam Wong, Wai Lam
+Publication date: 2010
+Journal: Proceedings of the World Congress on Engineering
+
+Information retrieval technology
+Authors: Min-Yen Kan, Wai Lam, Preslav Nakov
+Publication date: 2010
+
+An integrated discriminative probabilistic approach to information extraction
+Authors: Xiaofeng Yu, Wai Lam, Bo Chen
+Publication date: 2009/11/2
+
+Mining employment market via text block detection and adaptive cross-domain information extraction
+Authors: Tak-Lam Wong, Wai Lam, Bo Chen
+Publication date: 2009/7/19
+
+Extracting discriminative concepts for domain adaptation in text mining
+Authors: Bo Chen, Wai Lam, Ivor Tsang, Tak-Lam Wong
+Publication date: 2009/6/28
+
+Learning to adapt web information extraction knowledge and discovering new attributes via a bayesian approach
+Authors: Tak-Lam Wong, Wai Lam
+Publication date: 2009/5/2
+Journal: IEEE Transactions on Knowledge and Data Engineering
+
+A semi-supervised framework for feature mapping and multiclass classification
+Authors: Bo Chen, Wai Lam, Ivor Tsang, Tak-Lam Wong
+Publication date: 2009/4/30
+
+An Efficient Method for Generating, Storing and Matching Features for Text Mining
+Authors: Shing-Kit Chan, Wai Lam
+Publication date: 2009/4/27
+
+Cross language information extraction knowledge adaptation
+Authors: Tak-Lam Wong, Kai-On Chow, Wai Lam
+Publication date: 2009
+Conference: Rough Sets and Knowledge Technology: 4th International Conference, RSKT 2009, Gold Coast, Australia, July 14-16, 2009. Proceedings 4
+
+An unsupervised method for joint information extraction and feature mining across different web sites
+Authors: Tak-Lam Wong, Wai Lam
+Publication date: 2009/1/1
+Journal: Data & Knowledge Engineering
+
+An active learning framework for semi-supervised document clustering with language modeling
+Authors: Ruizhang Huang, Wai Lam
+Publication date: 2009/1/1
+Journal: Data & Knowledge Engineering
+
+Towards more effective text summarization based on textual association networks
+Authors: Yuhui Tao, Shuigeng Zhou, Wai Lam, Jihong Guan
+Publication date: 2008/12/3
+Conference: 2008 Fourth International Conference on Semantics, Knowledge and Grid
+
+Coreference resolution using expressive logic models
+Authors: Ki Chan, Wai Lam, Xiaofeng Yu
+Publication date: 2008/10/26
+
+An integrated probabilistic and logic approach to encyclopedia relation extraction with multiple features
+Authors: Xiaofeng Yu, Wai Lam
+Publication date: 2008/8
+Conference: Proceedings of the 22nd International Conference on Computational Linguistics (Coling 2008)
+
+An unsupervised framework for extracting and normalizing product attributes from multiple web sites
+Authors: Tak-Lam Wong, Wai Lam, Tik-Shun Wong
+Publication date: 2008/7/20
+
+An Unsupervised Approach for Product Record Normalization across Different Web Sites.
+Authors: Tak-Lam Wong, Tik-Shun Wong, Wai Lam
+Publication date: 2008/7/13
+Conference: AAAI
+
+Hidden Dynamic Probabilistic Models for Labeling Sequence Data.
+Authors: Xiaofeng Yu, Wai Lam
+Publication date: 2008/7/13
+Conference: AAAI
+
+Learning to extract and summarize hot item features from multiple auction web sites
+Authors: Tak-Lam Wong, Wai Lam
+Publication date: 2008/2
+Journal: Knowledge and Information Systems
+
+Pronoun resolution with Markov logic networks
+Authors: Ki Chan, Wai Lam
+Publication date: 2008
+Conference: Information Retrieval Technology: 4th Asia Infomation Retrieval Symposium, AIRS 2008, Harbin, China, January 15-18, 2008 Revised Selected Papers 4
+
+An Online Cascaded Approach to Biomedical Named Entity Recognition
+Authors: Shing-Kit Chan, Wai Lam, Xiaofeng Yu
+Publication date: 2008
+Conference: Proceedings of the Third International Joint Conference on Natural Language Processing: Volume-II
+
+A framework based on graphical models with logic for Chinese named entity recognition
+Authors: Xiaofeng Yu, Wai Lam, Shing-Kit Chan
+Publication date: 2008
+Conference: Proceedings of the Third International Joint Conference on Natural Language Processing: Volume-I
+
+Chinese NER using CRFs and logic for the fourth SIGHAN bakeoff
+Authors: Xiaofeng Yu, Wai Lam, Shing-Kit Chan, Yiu Kei Wu, Bo Chen
+Publication date: 2008
+Conference: Proceedings of the Sixth SIGHAN Workshop on Chinese Language Processing
+
+Semi-supervised document clustering via active learning with pairwise constraints
+Authors: Ruizhang Huang, Wai Lam
+Publication date: 2007/10/28
+Conference: Seventh IEEE International Conference on Data Mining (ICDM 2007)
+
+A cascaded approach to biomedical named entity recognition using a unified model
+Authors: Shing-Kit Chan, Wai Lam, Xiaofeng Yu
+Publication date: 2007/10/28
+Conference: Seventh IEEE International Conference on Data Mining (ICDM 2007)
+
+Efficient methods for biomedical named entity recognition
+Authors: Shing-Kit Chan, Wai Lam
+Publication date: 2007/10/14
+Conference: 2007 IEEE 7th International Symposium on BioInformatics and BioEngineering
+
+Introduction to the special topic section on mining Web resources for enhancing information retrieval
+Authors: Wai Lam, Christopher C Yang, Filippo Menczer
+Publication date: 2007/10
+
+Customized classification learning based on query projections
+Authors: Yiqiu Han, Wai Lam, Charles X Ling
+Publication date: 2007/9/1
+Journal: Information Sciences
+
+Efficient in-memory extensible inverted file
+Authors: Robert WP Luk, Wai Lam
+Publication date: 2007/7/1
+Journal: Information Systems
+
+Utilizing hierarchical feature domain values for prediction
+Authors: Yiqiu Han, Wai Lam
+Publication date: 2007/6/1
+Journal: Data & Knowledge Engineering
+
+Active learning of constraints for semi-supervised text clustering
+Authors: Ruizhang Huang, Wai Lam, Zhigang Zhang
+Publication date: 2007/4/26
+
+Building Knowledge Base for Reading from Encyclopedia.
+Authors: Ka Kan Lo, Wai Lam
+Publication date: 2007/3/26
+Conference: AAAI Spring Symposium: Machine Reading
+
+Named entity translation matching and learning: With application for mining unseen translations
+Authors: Wai Lam, Shing-Kit Chan, Ruizhang Huang
+Publication date: 2007/2/1
+Journal: ACM Transactions on Information Systems (TOIS)
+
+Adapting web information extraction knowledge via mining site-invariant and site-dependent features
+Authors: Tak-Lam Wong, Wai Lam
+Publication date: 2007/2/1
+Journal: ACM Transactions on Internet Technology (TOIT)
+
+Customized generalization of support patterns for classification
+Authors: Yiqiu Han, Wai Lam, Charles X Ling
+Publication date: 2006/11/20
+Journal: IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)
+
+Using Semantic Relations with World Knowledge for Question Answering.
+Authors: Ka Kan Lo, Wai Lam
+Publication date: 2006/11
+Conference: TREC
+
+Text clustering with limited user feedback under local metric learning
+Authors: Ruizhang Huang, Zhigang Zhang, Wai Lam
+Publication date: 2006/10/16
+
+Integrating XML and CORBA to support collaborative writing using off-the-shelf editing software
+Authors: Kei Shiu Ho, Hong Va Leong, Wai Lam, Robert Wing Pong Luk
+Publication date: 2006/9/1
+Journal: Information Systems
+
+Refining hierarchical taxonomy structure via semi-supervised learning
+Authors: Ruizhang Huang, Zhigang Zhang, Wai Lam
+Publication date: 2006/8/6
+
+Collaborative information extraction and mining from multiple web documents
+Authors: Tak-Lam Wong, Wai Lam, Shing-Kit Chan
+Publication date: 2006/4/20
+
+Extracting and summarizing hot item features across different auction web sites
+Authors: Tak-Lam Wong, Wai Lam, Shing-Kit Chan
+Publication date: 2006/4/9
+
+MEAD Documentation v3. 10
+Authors: Dragomir Radev, John Blitzer, Adam Winkel, Tim Allison, Michael Topper, Matthew Craig, Stanko Dimitrov, Wai Lam, Hong Qi, Horacio Saggion, Simone Teufel, Zhu Zhang
+Publication date: 2006/3/21
+
+Introduction to the special topic section on multilingual information systems
+Authors: Christopher C Yang, Wai Lam
+Publication date: 2006/3
+
+Training conditional random fields with unlabeled data and limited number of labeled examples
+Authors: T Wong, Wai Lam
+Publication date: 2006/1/1
+Journal: Lecture notes in computer science
+
+Exploring query matrix for support pattern based classification learning
+Authors: Yiqiu Han, Wai Lam
+Publication date: 2006/1/1
+
+Discovering patterns from ontology-derived texts
+Authors: Ki Chan, Wai Lam
+Publication date: 2005/12/12
+
+Hot item mining and summarization from multiple auction web sites
+Authors: Tak-Lam Wong, Wai Lam
+Publication date: 2005/11/27
+Conference: Fifth IEEE International Conference on Data Mining (ICDM'05)
+
+Gene ontology classification of biomedical literatures using context association
+Authors: Ki Chan, Wai Lam
+Publication date: 2005/10/13
+
+Supervised learning by exploring query matrix for support patterns
+Authors: Yi-Qiu Han, Wai Lam
+Publication date: 2005/8/18
+Conference: 2005 International Conference on Machine Learning and Cybernetics
+
+Semi-Supervised learning for sequence labeling using conditional random fields
+Authors: Tak-Lam Wong, Wai Lam
+Publication date: 2005/8/18
+Conference: 2005 International Conference on Machine Learning and Cybernetics
+
+A new approach for semi-supervised online news classification
+Authors: Hon-Man Ko, Wai Lam
+Publication date: 2005/7/27
+
+Lazy learning for classification based on query projections
+Authors: Yiqiu Han, Wai Lam
+Publication date: 2005/4/21
+
+Learning to refine ontology for a new web site using a Bayesian approach
+Authors: Tak-Lam Wong, Wai Lam
+Publication date: 2005/4/21
+
+Extracting causation knowledge from natural language texts
+Authors: Ki Chan, Wai Lam
+Publication date: 2005/3
+Journal: International Journal of Intelligent Systems
+
+Context‐based generic cross‐lingual retrieval of documents and automated summaries
+Authors: Wai Lam, Ki Chan, Dragomir Radev, Horacio Saggion, Simone Teufel
+Publication date: 2005/1/15
+Journal: Journal of the American Society for Information Science and Technology
+
+Pattern-based Customized Learning for Categorization Task in TREC Genomics Track
+Authors: Wai Lam, Yiqiu Han, Ki Chan
+Publication date: 2005
+Journal: NIST Special Publication
+
+Automatic domain ontology generation from web sites
+Authors: Tak-Lam Wong, Wai Lam, Enhong Chen
+Publication date: 2005/1/1
+Journal: Journal of Integrated Design and Process Science
+
+Improving transliteration with precise alignment of phoneme chunks and using contextual features
+Authors: Wei Gao, Kam-Fai Wong, Wai Lam
+Publication date: 2005
+Conference: Information Retrieval Technology: Asia Information Retrieval Symposium, AIRS 2004, Beijing, China, October 18-20, 2004. Revised Selected Papers 1
+
+Phoneme-based transliteration of foreign names for OOV problem
+Authors: Wei Gao, Kam-Fai Wong, Wai Lam
+Publication date: 2005
+Conference: Natural Language Processing–IJCNLP 2004: First International Joint Conference, Hainan Island, China, March 22-24, 2004, Revised Selected Papers 1
+
+Interpretable query projection learning
+Authors: Yiqiu Han, Wai Lam
+Publication date: 2004/12/16
+
+CatRelate: A new hierarchical document category integration algorithm by learning category relationships
+Authors: Shanfeng Zhu, Christopher C Yang, Wai Lam
+Publication date: 2004/12/13
+
+Query-driven support pattern discovery for classification learning
+Authors: Yiqiu Han, Wai Lam
+Publication date: 2004/11/1
+Conference: Fourth IEEE International Conference on Data Mining (ICDM'04)
+
+A probabilistic approach for adapting information extraction wrappers and discovering new attributes
+Authors: Tak-Lam Wong, Wai Lam
+Publication date: 2004/11/1
+Conference: Fourth IEEE International Conference on Data Mining (ICDM'04)
+
+Learning phonetic similarity for matching named entity translations and mining new translations
+Authors: Wai Lam, Ruizhang Huang, Pik-Shan Cheung
+Publication date: 2004/7/25
+
+Mining events and new name translations from online daily news
+Authors: Wai Lam, Pik-Shan Cheung, Ruizhang Huang
+Publication date: 2004/6/7
+
+Exploiting hierarchical domain values in classification learning
+Authors: Yiqiu Han, Wai Lam
+Publication date: 2004/4/22
+
+Lazy learning by scanning memory image lattice
+Authors: Yiqiu Han, Wai Lam
+Publication date: 2004/4/22
+
+Text mining from site invariant and dependent features for information extraction knowledge adaptation
+Authors: Tak-Lam Wong, Wai Lam
+Publication date: 2004/4/22
+
+Financial activity mining from online multilingual news
+Authors: Pik-Shan Cheung, Ruizhang Huang, Wai Lam
+Publication date: 2004/4/5
+Conference: International Conference on Information Technology: Coding and Computing, 2004. Proceedings. ITCC 2004.
+
+MEAD-a platform for multidocument multilingual text summarization
+Authors: Dragomir R Radev, Timothy Allison, Sasha Blair-Goldensohn, John Blitzer, Arda Celebi, Stanko Dimitrov, Elliott Drabek, Ali Hakim, Wai Lam, Danyu Liu, Jahna Otterbacher, Hong Qi, Horacio Saggion, Simone Teufel, Michael Topper, Adam Winkel, Zhu Zhang
+Publication date: 2004
+
+Passage-based retrieval based on parameterized fuzzy operators
+Authors: YK Kong, RWP Luk, W Lam, KS Ho, FL Chung
+Publication date: 2004
+Journal: ACM SIGIR workshop on mathematical/formal methods for information retrieval
+
+Passage-based retrieval using parameterized fuzzy set operators
+Authors: K Kong, R Luk, K Ho, F Chung
+Publication date: 2004
+Journal: ACM SIGIR Workshop on Mathematical/Formal. Methods for Information Retrieval
+
+Knowledge Organization and Representation-CatRelate: A New Hierarchical Document Category Integration Algorithm by Learning Category Relationships
+Authors: Shanfeng Zhu, Christopher C Yang, Wai Lam
+Publication date: 2004
+Journal: Lecture Notes in Computer Science
+
+MEAD Documentation
+Authors: Dragomir Radev, John Blitzer, Adam Winkel, Michael Topper, Arda Celebi, Wai Lam
+Publication date: 2003/10/23
+
+Evaluation challenges in large-scale document summarization
+Authors: Dragomir Radev, Simone Teufel, Horacio Saggion, Wai Lam, John Blitzer, Hong Qi, Arda Celebi, Danyu Liu, Elliott Franco Drabek
+Publication date: 2003/7
+Conference: Proceedings of the 41st Annual Meeting of the Association for Computational Linguistics
+
+Web discovery and filtering based on textual relevance feedback learning
+Authors: Wai Lam, Wei Wang, Che‐Wang Yue
+Publication date: 2003/5
+Journal: Computational Intelligence
+
+Exploiting hierarchical domain values for Bayesian learning
+Authors: Yiqiu Han, Wai Lam
+Publication date: 2003/4/30
+
+Automatic textual document categorization based on generalized instance sets and a metamodel
+Authors: Wai Lam, Yiqiu Han
+Publication date: 2003/4/29
+Journal: IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+Beyond supervised learning of wrappers for extracting information from unseen Web sites
+Authors: Tak-Lam Wong, Wai Lam, Wei Wang
+Publication date: 2003/3/21
+
+Exploiting heterogeneous features for classification learning
+Authors: Yiqiu Han, Wai Lam
+Publication date: 2003/3/21
+
+Stock prediction: Integrating text mining approach using real-time news
+Authors: G Pui Cheong Fung, J Xu Yu, Wai Lam
+Publication date: 2003/3/20
+Conference: 2003 IEEE International Conference on Computational Intelligence for Financial Engineering, 2003. Proceedings.
+
+HIGH‐DIMENSIONAL LEARNING FRAMEWORK FOR ADAPTIVE DOCUMENT FILTERING
+Authors: Wai Lam, Kwok Leung Yu
+Publication date: 2003/2
+Journal: Computational Intelligence
+
+Discovering Bilingual Name Association and Translation From Online News of Different Sources.
+Authors: Yin-Yee Law, Ruizhang Huang, Wai Lam
+Publication date: 2003
+Conference: IKE
+
+Digesting Bilingual Web News via Mining Financial Activities and Events
+Authors: Pik-Shan Cheung, Ruizhang Huang, Wai Lam
+Publication date: 2003
+Conference: Digital Libraries: Technology and Management of Indigenous Knowledge for Global Access: 6th International Conference on Asian Digital Libraries, ICADL 2003, Kuala Lumpur, Malaysia, December 8-12, 2003. Proceedings 6
+
+Supporting Story Link Detection Using Automatic Topic Type Categorization.
+Authors: Ruizhang Huang, Wai Lam
+Publication date: 2003
+Conference: IKE
+
+Mining unseen name translations via detecting comparable news.
+Authors: P-Sh Cheung, R Huang, W Lam, Y-Y Law
+Publication date: 2003
+Journal: Second IASTED International Conference on Information and Knowledge Sharing
+
+Automatic stock trend prediction by real time news
+Authors: Gabriel Pui Cheong Fung, Jeffrey Xu Yu, Wai Lam
+Publication date: 2003
+
+Using support vector machines for terrorism information extraction
+Authors: Aixin Sun, Myo-Myo Naing, Ee-Peng Lim, Wai Lam
+Publication date: 2003
+Conference: Intelligence and Security Informatics: First NSF/NIJ Symposium, ISI 2003, Tucson, AZ, USA, June 2–3, 2003 Proceedings 1
+
+Adapting information extraction knowledge for unseen web sites
+Authors: Tak-Lam Wong, Wai Lam
+Publication date: 2002/12/9
+Conference: 2002 IEEE International Conference on Data Mining, 2002. Proceedings.
+
+Learning nonlinear multiregression networks based on evolutionary computation
+Authors: Kwong-Sak Leung, Man-Leung Wong, Wai Lam, Zhenyuan Wang, Kebin Xu
+Publication date: 2002/10
+Journal: IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)
+
+A distributed learning algorithm for Bayesian inference networks
+Authors: Wai Lam, Alberto Maria Segre
+Publication date: 2002/8/7
+Journal: IEEE Transactions on Knowledge and Data Engineering
+
+Automatic bilingual text document summarization
+Authors: 羅秀爛
+Publication date: 2002/8
+
+Discovering useful concept prototypes for classification based on filtering and abstraction
+Authors: Wai Lam, Chi-Kin Keung, Danyu Liu
+Publication date: 2002/8
+Journal: IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+Learning good prototypes for classification using filtering and abstraction of instances
+Authors: Wai Lam, Chi-Kin Keung, Charles X Ling
+Publication date: 2002/7/1
+Journal: Pattern Recognition
+
+Evaluation of text summarization in a cross-lingual information retrieval framework
+Authors: Dragomir Radev, Simone Teufel, Horacio Saggion, Wai Lam, John Blitzer, Arda Celebi, Hong Qi, Elliott Drabek, Danyu Liu
+Publication date: 2002/6
+Journal: Center for Language and Speech Processing, Johns Hopkins University, Baltimore, MD, Tech. Rep
+
+Developing Infrastructure for the Evaluation of Single and Multi-document Summarization Systems in a Cross-lingual Environment.
+Authors: Horacio Saggion, Dragomir R Radev, Simone Teufel, Wai Lam, Stephanie M Strassel
+Publication date: 2002/5
+Conference: LREC
+
+News sensitive stock trend prediction
+Authors: Gabriel Pui Cheong Fung, Jeffrey Xu Yu, Wai Lam
+Publication date: 2002/4/29
+
+Meta-evaluation of summaries in a cross-lingual environment using content-based metrics
+Authors: Horacio Saggion, Dragomir Radev, Simone Teufel, Wai Lam
+Publication date: 2002
+Conference: COLING 2002: The 19th International Conference on Computational Linguistics
+
+Automatic story segmentation for spoken document retrieval
+Authors: Pui Yu Hui, Xiaoou Tang, Helen M Meng, Wai Lam, Xinbo Gao
+Publication date: 2001/12/2
+Conference: 10th IEEE International Conference on Fuzzy Systems.(Cat. No. 01CH37297)
+
+FIDS: an intelligent financial web news articles digest system
+Authors: Wai Lam, Kei Shiu Ho
+Publication date: 2001/11
+Journal: IEEE Transactions on Systems, Man, and Cybernetics-Part A: Systems and Humans
+
+A collaborative word processing system using a CORBA-based workflow framework
+Authors: Kei Shiu Ho, Hong Va Leong, Wai Lam
+Publication date: 2001/9/17
+Conference: Proceedings 3rd International Symposium on Distributed Objects and Applications
+
+A meta-learning approach for text categorization
+Authors: Wai Lam, Kwok-Yin Lai
+Publication date: 2001/9/1
+
+Web-based workflow framework with CORBA
+Authors: Hong Va Leong, Kei Shiu Ho, Wai Lam
+Publication date: 2001/6
+Journal: Concurrent Engineering
+
+Automatic textual document categorization using multiple similarity-based models
+Authors: Kwok-Yin Lai, Wai Lam
+Publication date: 2001/4/5
+
+Using contextual analysis for news event detection
+Authors: Wai Lam, HML Meng, KL Wong, JCH Yen
+Publication date: 2001/4
+Journal: International Journal of Intelligent Systems
+
+A medical data mining application based on evolutionary computation
+Authors: Man Leung WONG, Wai LAM, Kwong Sak LEUNG
+Publication date: 2001
+
+Learning via prototype generation and filtering
+Authors: Wai Lam, Chi-Kin Keung, Charles X Ling
+Publication date: 2001
+Journal: Instance Selection and Construction for Data Mining
+
+Meta-learning models for automatic textual document categorization
+Authors: Kwok-Yin Lai⋆, Wai Lam
+Publication date: 2001
+Conference: Advances in Knowledge Discovery and Data Mining: 5th Pacific-Asia Conference, PAKDD 2001 Hong Kong, China, April 16–18, 2001 Proceedings 5
+
+Chinese document indexing based on a new partitioned signature file: Model and evaluation
+Authors: Wai Lam, Kam‐Fai Wong, Chi‐Yin Wong
+Publication date: 2001
+Journal: Journal of the American Society for Information Science and Technology
+
+link detection system for the TDT2001 evaluation [C]
+Authors: Wai Lam, Chong-Ki Tsang, Tak-Lam Wong
+Publication date: 2001
+Conference: TDT Workshop
+
+Discovery of Unknown Events From Multi-lingual News
+Authors: Kin Hui, Wai Lam, HM Meng
+Publication date: 2001
+Journal: Proceedings of the International Conference on Computer Processing of Oriental Languages
+
+Automatic event generation from multi-lingual news stories
+Authors: Kin Hui, Wai Lam, Helen M Meng
+Publication date: 2001/1/1
+
+Modeling user interest shift using a bayesian approach
+Authors: Wai Lam, Javed Mostafa
+Publication date: 2001
+Journal: Journal of the American society for Information Science and Technology
+
+Learning to extract hierarchical information from semi-structured documents
+Authors: Wai-Yip Lin, Wai Lam
+Publication date: 2000/11/6
+
+Multilingual topic detection using a parallel corpus
+Authors: Wai Lam, Helen M Meng, Kin Hui
+Publication date: 2000/11
+Journal: Proceedings of the DARPA TDT 2000 Workshop
+
+Using discretization and Bayesian inference network learning for automatic filtering profile generation
+Authors: Wai Lam, Kon Fan Low
+Publication date: 2000/8
+Journal: IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)
+
+Discovering knowledge from medical databases using evolutionory algorithms
+Authors: Man Leung Wong, Wai Lam, Kwong Sak Leung, Po Shun Ngan, Jack CY Cheng
+Publication date: 2000/7
+Journal: IEEE Engineering in Medicine and Biology Magazine
+
+Automatic classification using supervised learning in a medical document filtering application
+Authors: Javed Mostafa, Wai Lam
+Publication date: 2000/5/1
+Journal: Information Processing & Management
+
+Prototype generation based on instance filtering and averaging
+Authors: Chi-Kin Keung, Wai Lam
+Publication date: 2000/4/18
+
+Workflow framework over the web using CORBA
+Authors: Hong Va Leong, KS Ho, W Lam
+Publication date: 2000
+Conference: International Workshop on Cooperative Internet Computing
+
+Updating of association rules dynamically
+Authors: King-Kwok Ng, Wai Lam
+Publication date: 1999/11/28
+Conference: Proceedings 1999 International Symposium on Database Applications in Non-Traditional Environments (DANTE'99)(Cat. No. PR00496)
+
+Interactive Chinese news event detection and tracking
+Authors: KL Wong, W Lam, J Yen
+Publication date: 1999/11
+Journal: Proceedings of The Second Asian Digital Library Conference
+
+Automatic text categorization and its application to text retrieval
+Authors: Wai Lam, Miguel Ruiz, Padmini Srinivasan
+Publication date: 1999/11
+Journal: IEEE Transactions on Knowledge and Data engineering
+
+A Bayesian approach for understanding information-seeking queries
+Authors: Helen M Meng, Wai Lam, Kon Fan Low
+Publication date: 1999/10/12
+Conference: IEEE SMC'99 Conference Proceedings. 1999 IEEE International Conference on Systems, Man, and Cybernetics (Cat. No. 99CH37028)
+
+Modeling textual document classification
+Authors: Wai Lam, Chao Yang Ho
+Publication date: 1999/10/12
+Conference: IEEE SMC'99 Conference Proceedings. 1999 IEEE International Conference on Systems, Man, and Cybernetics (Cat. No. 99CH37028)
+
+Applying evolutionary algorithms to discover knowledge from medical databases
+Authors: Man Leung Wong, Wai Lam, Kwong Sak Leung, Jack CY Cheng
+Publication date: 1999/10/12
+Conference: IEEE SMC'99 Conference Proceedings. 1999 IEEE International Conference on Systems, Man, and Cybernetics (Cat. No. 99CH37028)
+
+Intelligent content‐based document delivery via automatic filtering profile generation
+Authors: Wai Lam
+Publication date: 1999/10
+Journal: International journal of intelligent systems
+
+An intelligent adaptive filtering agent based on an on-line learning model
+Authors: Wai Lam, Kwok Leung Yu
+Publication date: 1999/8/1
+
+Medical data mining using evolutionary computation
+Authors: Po Shun Ngan, Man Leung Wong, Wai Lam, Kwong Sak Leung, Jack CY Cheng
+Publication date: 1999/5/1
+Journal: Artificial Intelligence in Medicine
+
+Managing requirements change using metrics and action planning
+Authors: W Lam, Martin Loomes, V Shankararaman
+Publication date: 1999/3/5
+Conference: Proceedings of the Third European Conference on Software Maintenance and Reengineering (Cat. No. PR00090)
+
+Using evolutionary programming and minimum description length principle for data mining of Bayesian networks
+Authors: Man Leung Wong, Wai Lam, Kwong Sak Leung
+Publication date: 1999/2
+Journal: IEEE transactions on pattern analysis and machine intelligence
+
+Using evolutionary computation and minimum description length principle for data mining of probabilistic knowledge
+Authors: ML Wong, W Lam, KS Leung
+Publication date: 1999
+Journal: IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+Learning belief networks for language understanding
+Authors: Helen Meng, Wai Lam, Kon Fan Low
+Publication date: 1999
+Journal: Proceedings of ASRU
+
+To believe is to understand
+Authors: Helen M Meng, Wai Lam, Carmen Wai
+Publication date: 1999
+Conference: Sixth European Conference on Speech Communication and Technology
+
+A new on-line learning algorithm for adaptive text filtering
+Authors: Kwok Leung Yu, Wai Lam
+Publication date: 1998/11/1
+
+Discovering nonlinear-integral networks from databases using evolutionary computation and minimum description length principle
+Authors: Kwong-Sak Leung, Man Leung Wong, Wai Lam, Zhenyuan Wang
+Publication date: 1998/10/14
+Conference: SMC'98 Conference Proceedings. 1998 IEEE International Conference on Systems, Man, and Cybernetics (Cat. No. 98CH36218)
+
+Re-engineering for reuse: a paradigm for evolving complex reuse artefacts
+Authors: W Lam, Martin Loomes
+Publication date: 1998/8/21
+Conference: Proceedings. The Twenty-Second Annual International Computer Software and Applications Conference (Compsac'98)(Cat. No. 98CB 36241)
+
+Using a generalized instance set for automatic text categorization
+Authors: Wai Lam, Chao Yang Ho
+Publication date: 1998/8/1
+
+Discover Probabilistic Knowledge from Databases Using Evolutionary Computation and Minimum Description Length Principle
+Authors: Wai LAM, Man Leung WONG, Kwong Sak LEUNG, Po Shun NGAN
+Publication date: 1998/7
+Conference: The Third Genetic Programming Conference 1998
+
+Bayesian network refinement via machine learning approach
+Authors: Wai Lam
+Publication date: 1998/3
+Journal: IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+Constructing Text Filters Based on Bayesian Network Learning.
+Authors: Wai Lam, Kon Fan Low
+Publication date: 1998
+Conference: ECAI
+
+Automatic discovery of document classification knowledge from text databases
+Authors: Chao Yang Ho, Wai Lam
+Publication date: 1998
+
+Automatic document classification based on probabilistic reasoning: Model and performance analysis
+Authors: Wai Lam, Kon-Fan Low
+Publication date: 1997/10/12
+Conference: 1997 IEEE International Conference on Systems, Man, and Cybernetics. Computational Cybernetics and Simulation
+
+A multilevel approach to intelligent information filtering: model, system, and evaluation
+Authors: Javed Mostafa, Snehasis Mukhopadhyay, Mathew Palakal, Wai Lam
+Publication date: 1997/10/1
+Journal: ACM Transactions on Information Systems (TOIS)
+
+Distributed data mining of probabilistic knowledge
+Authors: Wai Lam, Alberto Maria Segre
+Publication date: 1997/5/27
+Conference: Proceedings of 17th International Conference on Distributed Computing Systems
+
+Using a Bayesian network induction approach for text categorization
+Authors: Wai Lam, Kon Fan Low, Chao Yang Ho
+Publication date: 1997
+Conference: IJCAI (1)
+
+Detection of shifts in user interests for personalized information filtering
+Authors: Wai Lam, Snehasis Mukhopadhyay, Javed Mostafa, Mathew Palakal
+Publication date: 1996/8/18
+
+A two-level approach to learning in nonstationary environments
+Authors: Wai Lam, Snehasis Mukhopadhyay
+Publication date: 1996
+Conference: Advances in Artifical Intelligence: 11th Biennial Conference of the Canadian Society for Computational Studies of Intelligence, AI'96 Toronto, Ontario, Canada, May 21–24, 1996 Proceedings 11
+
+Learning and refining Bayesian network structures from data.
+Authors: Wai Lam
+Publication date: 1996
+
+An investigation of indexing on the www
+Authors: Padmini Srinivasan, Miguel E Ruiz, Wai Lam
+Publication date: 1996/1/1
+Journal: PROCEEDINGS OF THE ANNUAL MEETING-AMERICAN SOCIETY FOR INFORMATION SCIENCE
+
+An adaptive multi-level information filtering system
+Authors: S Mukhopadhyay, J Mostafa, M Palakal, W Lam, L Xue, A Hudli
+Publication date: 1996/1
+Journal: Proceedings of the Fifth International Conference on User Modeling
+
+Abstraction in Bayesian belief networks and automatic discovery from past inference sessions
+Authors: Wai Lam
+Publication date: 1994/8/1
+Conference: AAAI
+
+Learning Bayesian belief networks: An approach based on the MDL principle
+Authors: Wai Lam, Fahiem Bacchus
+Publication date: 1994/8
+Journal: Computational intelligence
+
+MATHEMATICS-STAT, LIBRARY
+Authors: Qiang Yang, Cheryl Murray, Wai Lam, Fahiem Bacchus, Paul O'Rorke, Christine Froidevaux, Jérôme Mengin
+Publication date: 1994
+Journal: Computational Intelligence
+
+Using new data to refine a Bayesian network
+Authors: Wai Lam, Fahiem Bacchus
+Publication date: 1994/1/1
+
+Using causal information and local measures to learn Bayesian networks
+Authors: Wai Lam, Fahiem Bacchus
+Publication date: 1993/1/1
+
+Concurrency Control in Object-Oriented Databases
+Authors: Wai Lam, Yalin Wang, Yongbing Feng
+Publication date: 1991
+Journal: University of Waterloo, Technical report
+
+Applications of a novel fuzzy expert system shell: Leung, KS, Wong, WSF and Lam, W Expert Syst. Vol 6 No 1 (February 1989) pp 2-10
+Authors: KS Leung, WSF Wong, W Lam
+Publication date: 1989/12/1
+Journal: Knowledge-Based Systems
+
+A fuzzy expert database system
+Authors: Kwong-Sak Leung, Man Hon Wong, W Lam
+Publication date: 1989/12/1
+Journal: Data & Knowledge Engineering
+
+A fuzzy expert system shell using both exact and inexact reasoning
+Authors: Kwong-Sak Leung, W Lam
+Publication date: 1989/6
+Journal: Journal of Automated Reasoning
+
+The development of an expert computer system on medical consulation
+Authors: KS Leung, Felix WS Wong, W Lam
+Publication date: 1988/12/1
+Journal: International journal of bio-medical computing
+
+Fuzzy concepts in expert systems
+Authors: Kwong-Sak Leung, Wai Lam
+Publication date: 1988/9
+Journal: Computer
+
+A Fuzzy Knowledge-based System Shells
+Authors: KS Leung, W Lam
+Publication date: 1987
+
+A Fuzzy Knowledge-Based System Shell-System Z-1
+Authors: KS Leung, W Lam
+Publication date: 1987/1
+Journal: TENCON 87-Computers and Communications Technology Toward 2000
+
+Discover Probabilistic Knowledge from Databases Using Evolutionary Computation and Minimum Description Length Principle
+Authors: Wai Lam, Man Leung Wong, Kwong Sak Leung, Po Shun Ngan, Tuen Mun, Po Shun Ngan
+
+Mining Time-Aware Urban Living Styles via Latent Semantic Concept Analysis with Service Recommendation Application
+Authors: Wai LAM
+
+Discovering Knowledge from Medical Databases
+Authors: Man Leung Wong, Wai Lam, Kwong Sak Leung, Jack CY Cheng+

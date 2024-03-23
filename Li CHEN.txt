@@ -1,0 +1,873 @@
+Exploring the Design of Generative AI in Supporting Music-based Reminiscence for Older Adults
+Authors: Yucheng Jin, Wanling Cai, Li Chen, Yizhe Zhang, Gavin Doherty, Tonglin Jiang
+Publication date: 2024/3/3
+Journal: arXiv preprint arXiv:2403.01413
+
+Adaptive Hardness Negative Sampling for Collaborative Filtering
+Authors: Riwei Lai, Rui Chen, Qilong Han, Chi Zhang, Li Chen
+Publication date: 2024/1/10
+Journal: arXiv preprint arXiv:2401.05191
+
+FMMRec: Fairness-aware Multimodal Recommendation
+Authors: Weixin Chen, Li Chen, Yongxin Ni, Yuhan Zhao, Fajie Yuan, Yongfeng Zhang
+Publication date: 2023/10/26
+Journal: arXiv preprint arXiv:2310.17373
+
+Prompt distillation for efficient llm-based recommendation
+Authors: Lei Li, Yongfeng Zhang, Li Chen
+Publication date: 2023/10/21
+
+RecSys 2023 Chairs' Welcome
+Authors: Jie Zhang, Li Chen, Shlomo Berkovsky, Min Zhang, Tommaso Di Noia, Justin Basilico, Luiz Pizzato, Yang Song, Hui Fang, Dietmar Jannach, Magdalini Eirinaki, Pigi Kouki, Ruiming Tang, Chao Huang, Cataldo Musto, Xiangnan He, Christine Bauer
+Publication date: 2023/9/14
+Conference: 17th ACM Conference on Recommender Systems, RecSys 2023
+
+Tutorial on Large Language Models for Recommendation
+Authors: Wenyue Hua, Lei Li, Shuyuan Xu, Li Chen, Yongfeng Zhang
+Publication date: 2023/9/14
+
+Augmented Negative Sampling for Collaborative Filtering
+Authors: Yuhan Zhao, Rui Chen, Riwei Lai, Qilong Han, Hongtao Song, Li Chen
+Publication date: 2023/9/14
+
+Large Language Models for Generative Recommendation: A Survey and Visionary Discussions
+Authors: Lei Li, Yongfeng Zhang, Dugang Liu, Li Chen
+Publication date: 2023/9/3
+Journal: arXiv preprint arXiv:2309.01157
+
+How do item features and user characteristics affect users' perceptions of recommendation serendipity? A cross-domain analysis (Dec, 10.1007/s11257-022-09350-x, 2022)
+Authors: Ningxia Wang, Li Chen
+Publication date: 2023/7/1
+Journal: USER MODELING AND USER-ADAPTED INTERACTION
+
+How do item features and user characteristics affect users’ perceptions of recommendation serendipity? A cross-domain analysis
+Authors: Ningxia Wang, Li Chen
+Publication date: 2023/7
+Journal: User Modeling and User-Adapted Interaction
+
+“Listen to Music, Listen to Yourself”: Design of a Conversational Agent to Support Self-Awareness While Listening to Music
+Authors: Wanling Cai, Yucheng Jin, Xianglin Zhao, Li Chen
+Publication date: 2023/4/19
+
+Understanding Disclosure and Support for Youth Mental Health in Social Music Communities
+Authors: Yucheng Jin, Wanling Cai, Li Chen, Yuwan Dai, Tonglin Jiang
+Publication date: 2023/4/16
+Journal: Proceedings of the ACM on Human-Computer Interaction
+
+Personalized prompt learning for explainable recommendation
+Authors: Lei Li, Yongfeng Zhang, Li Chen
+Publication date: 2023/3/23
+Journal: ACM Transactions on Information Systems
+
+The Influence of Personality Traits on User Interaction with Recommendation Interfaces
+Authors: Dongning Yan, Li Chen
+Publication date: 2023/3/10
+Journal: ACM Transactions on Interactive Intelligent Systems
+
+Comparing button-based chatbots with webpages for presenting fact-checking results: A case study of health information
+Authors: Xianglin Zhao, Li Chen, Yucheng Jin, Xinzhi Zhang
+Publication date: 2023/3/1
+Journal: Information Processing & Management
+
+Disentangled Negative Sampling for Collaborative Filtering
+Authors: Riwei Lai, Li Chen, Yuhan Zhao, Rui Chen, Qilong Han
+Publication date: 2023/2/27
+
+ACM Transactions on Recommender Systems: Inaugural Issue Editorial
+Authors: Li Chen, Dietmar Jannach
+Publication date: 2023/1/28
+
+Multiple Neighbor Relation Enhanced Graph Collaborative Filtering
+Authors: Riwei Lai, Shitong Xiao, Rui Chen, Li Chen, Qilong Han, Li Li
+Publication date: 2022/11/17
+Conference: 2022 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
+
+News from Messenger? A Cross-National Comparative Study of News Media's Audience Engagement Strategies via Facebook Messenger Chatbots
+Authors: Xinzhi Zhang, Rui Zhu, Li Chen, Zhirun Zhang, Minyi Chen
+Publication date: 2022/11/8
+Journal: Digital Journalism
+
+Global and Personalized Graphs for Heterogeneous Sequential Recommendation by Learning Behavior Transitions and User Intentions
+Authors: Weixin Chen, Mingkai He, Yongxin Ni, Weike Pan, Li Chen, Zhong Ming
+Publication date: 2022/9/18
+
+A pilot study for understanding users’ attitudes towards a conversational agent for news recommendation
+Authors: Li Chen, Zhirun Zhang, Xinzhi Zhang, Lehong Zhao
+Publication date: 2022/7/26
+
+A Diary Study of Social Explanations for Recommendations in Daily Life
+Authors: Zhirun Zhang, Yucheng Jin, Li Chen
+Publication date: 2022/7/4
+
+Eye-tracking-based personality prediction with recommendation interfaces
+Authors: Li Chen, Wanling Cai, Dongning Yan, Shlomo Berkovsky
+Publication date: 2022/6/24
+Journal: User Modeling and User-Adapted Interaction
+
+Conversational recommendation: A grand AI challenge
+Authors: Dietmar Jannach, Li Chen
+Publication date: 2022/6/23
+Journal: AI Magazine
+
+Impacts of Personal Characteristics on User Trust in Conversational Recommender Systems
+Authors: Wanling Cai, Yucheng Jin, Li Chen
+Publication date: 2022/4/29
+
+How Do Item Features and User Characteristics Affect Users' Perceptions of Recommendation Serendipity? A Cross-Domain Analysis
+Authors: Ningxia Wang, Li Chen
+Publication date: 2022/4/8
+
+JIIS preface for the special issue on advances in recommender systems
+Authors: Yong Zheng, Li Chen, Markus Zanker, Panagiotis Symeonidis
+Publication date: 2022/4
+Journal: Journal of Intelligent Information Systems
+
+Task-Oriented User Evaluation on Critiquing-Based Recommendation Chatbots
+Authors: Wanling Cai, Yucheng Jin, Li Chen
+Publication date: 2022/1/7
+Journal: IEEE Transactions on Human-Machine Systems
+
+Personality and recommender systems
+Authors: Marko Tkalcic, Li Chen
+Publication date: 2022
+Journal: Recommender Systems Handbook; Ricci, F., Rokach, L., Shapira, B., Eds
+
+TUR: Utilizing Temporal Information to Make Unexpected E-Commerce Recommendations
+Authors: Yongxin Ni, Ningxia Wang, Li Chen, Rui Chen, Lei Li
+Publication date: 2022
+Conference: International Conference on Web Information Systems Engineering
+
+Effects of Feature-Based Explanation and Its Output Modality on User Satisfaction With Service Recommender Systems
+Authors: Zhirun Zhang, Li Chen, Tonglin Jiang, Yutong Li, Lei Li
+Publication date: 2022
+Journal: Frontiers in big Data
+
+Personality and recommender systems
+Authors: Marko Tkalčič, Li Chen
+Publication date: 2022
+
+Key Qualities of Conversational Recommender Systems: From Users’ Perspective
+Authors: Yucheng Jin, Li Chen, Wanling Cai, Pearl Pu
+Publication date: 2021/11/9
+
+Informing the Design of a News Chatbot
+Authors: Zhirun Zhang, Xinzhi Zhang, Li Chen
+Publication date: 2021/9/14
+
+User Bias in Beyond-Accuracy Measurement of Recommendation Algorithms
+Authors: Ningxia Wang, Li Chen
+Publication date: 2021/9/13
+
+Personalized Transformer for Explainable Recommendation
+Authors: Lei Li, Yongfeng Zhang, Li Chen
+Publication date: 2021/8
+Conference: The 59th Annual Meeting of the Association for Computational Linguistics (ACL'21)
+
+CAESAR: context-aware explanation based on supervised attention for service recommendations
+Authors: Lei Li, Li Chen, Ruihai Dong
+Publication date: 2021/8
+Journal: Journal of Intelligent Information Systems
+
+EXTRA: Explanation Ranking Datasets for Explainable Recommendation
+Authors: Lei Li, Yongfeng Zhang, Li Chen
+Publication date: 2021/7
+Conference: The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'21)
+
+A Survey on Conversational Recommender Systems
+Authors: Dietmar Jannach, Ahtsham Manzoor, Wanling Cai, Li Chen
+Publication date: 2021/5/23
+Journal: ACM Computing Surveys (CSUR)
+
+Critiquing for Music Exploration in Conversational Recommender Systems
+Authors: Wanling Cai, Yucheng Jin, Li Chen
+Publication date: 2021/4/14
+
+Learning to Explain Recommendations
+Authors: Lei Li, Yongfeng Zhang, Li Chen
+Publication date: 2021/2/1
+Journal: arXiv preprint arXiv:2102.00627
+
+Psychological Models for Personalized Human-Computer Interaction
+Authors: Bruce Ferwerda, Li Chen, Marko Tkalčič
+Publication date: 2021
+
+On the Relationship between Explanation and Recommendation: Learning to Rank Explanations for Improved Performance
+Authors: Lei Li, Yongfeng Zhang, Li Chen
+Publication date: 2021
+Journal: ACM Transactions on Intelligent Systems and Technology
+
+BU-Trace: A Permissionless Mobile System for Privacy-Preserving Intelligent Contact Tracing
+Authors: Zhe Peng, Jinbin Huang, Haixin Wang, Shihao Wang, Xiaowen Chu, Xinzhi Zhang, Li Chen, Xin Huang, Xiaoyi Fu, Yike Guo, Jianliang Xu
+Publication date: 2021
+Conference: Database Systems for Advanced Applications. DASFAA 2021 International Workshops: BDQM, GDMA, MLDLDSA, MobiSocial, and MUST, Taipei, Taiwan, April 11–14, 2021, Proceedings 26
+
+Research Topic Psychological Models for Personalized Human-Computer Interaction (HCI)
+Authors: Bruce Ferwerda, Li Chen, Marko Tkalcic
+Publication date: 2021
+Journal: Frontiers in Psychology
+
+Generate neural template explanations for recommendation
+Authors: Lei Li, Yongfeng Zhang, Li Chen
+Publication date: 2020/10/19
+
+UMAP 2020 Demo and Late-Breaking Results Chairs' Preface
+Authors: Li Chen, Bart Knijnenburg, Frosina Koceva
+Publication date: 2020/7/14
+
+Predicting User Intents and Satisfaction with Dialogue-based Conversational Recommendations
+Authors: Wanling Cai, Li Chen
+Publication date: 2020/7/7
+
+The Impacts of Item Features and User Characteristics on Users' Perceived Serendipity of Recommendations
+Authors: Ningxia Wang, Li Chen, Yonghua Yang
+Publication date: 2020/7/7
+
+Towards Controllable Explanation Generation for Recommender Systems via Neural Template
+Authors: Lei Li, Li Chen, Yongfeng Zhang
+Publication date: 2020/4/20
+
+MusicBot: Evaluating Critiquing-Based Music Recommenders with Conversational Interaction
+Authors: Yucheng Jin, Wanling Cai, Li Chen, Nyi Nyi Htun, Katrien Verbert
+Publication date: 2019/11/3
+Conference: Proceedings of the 28th ACM International Conference on Information and Knowledge Management
+
+User Evaluations on Sentiment-based Recommendation Explanations
+Authors: Li Chen, Dongning Yan, Feng Wang
+Publication date: 2019/8/9
+Journal: ACM Transactions on Interactive Intelligent Systems (TiiS)
+
+User Validation of Recommendation Serendipity Metrics
+Authors: Li Chen, Ningxia Wang, Yonghua Yang, Keping Yang, Quan Yuan
+Publication date: 2019/6/27
+Journal: arXiv preprint arXiv:1906.11431
+
+How Serendipity Improves User Satisfaction with Recommendations? A Large-Scale User Evaluation
+Authors: Li Chen, Yonghua Yang, Ningxia Wang, Keping Yang, Quan Yuan
+Publication date: 2019/5/13
+Conference: The World Wide Web Conference
+
+Inferring students’ personality from their communication behavior in web-based learning systems
+Authors: Wen Wu, Li Chen, Qingchang Yang, You Li
+Publication date: 2019/5
+Journal: International Journal of Artificial Intelligence in Education
+
+Session details: Theme: System software and security: RS-Recommender systems: Theory and applications track
+Authors: Markus Zanker, Li Chen, Panagiotis Symeonidis, Yong Zheng
+Publication date: 2019/4/8
+
+Context-aware co-attention neural network for service recommendations
+Authors: Lei Li, Ruihai Dong, Li Chen
+Publication date: 2019/4/8
+Conference: 2019 IEEE 35th International Conference on Data Engineering Workshops (ICDEW)
+
+Neighborhood-Enhanced Transfer Learning for One-Class Collaborative Filtering
+Authors: Wanling Cai, Jiongbin Zheng, Weike Pan, Jing Lin, Lin Li, Li Chen, Xiaogang Peng, Zhong Ming
+Publication date: 2019/3/13
+Journal: Neurocomputing
+
+Towards a Taxonomy of User Feedback Intents for Conversational Recommendations.
+Authors: Wanling Cai, Li Chen
+Publication date: 2019
+Conference: RecSys (Late-Breaking Results)
+
+User perception of sentiment-integrated critiquing in recommender systems
+Authors: Li Chen, Dongning Yan, Feng Wang
+Publication date: 2019/1/1
+Journal: International Journal of Human-Computer Studies
+
+A heterogeneous hidden Markov model for mobile app recommendation
+Authors: Victor C Cheng, Li Chen, William K Cheung, Chi-kuen Fok
+Publication date: 2018/10/1
+Journal: Knowledge and Information Systems
+
+Personalizing recommendation diversity based on user personality
+Authors: Wen Wu, Li Chen, Yu Zhao
+Publication date: 2018/8/1
+Journal: User Modeling and User-Adapted Interaction
+
+RLT: Residual-Loop Training in Collaborative Filtering for Combining Factorization and Global-Local Neighborhood
+Authors: Lei Li, Weike Pan, Li Chen, Zhong Ming
+Publication date: 2018/6/25
+Conference: International Conference on Web Services
+
+Incorporating user experience into critiquing-based recommender systems: a collaborative approach based on compound critiquing
+Authors: Haoran Xie, Debby D Wang, Yanghui Rao, Tak-Lam Wong, Lau YK Raymond, Li Chen, Fu Lee Wang
+Publication date: 2018/5/1
+Journal: International Journal of Machine Learning and Cybernetics
+
+Session details: System software and security: RS-recommender systems: theory, user interactions and applications track
+Authors: Yong Zheng, Li Chen, Markus Zanker
+Publication date: 2018/4/9
+
+ACM UMAP 2018-User Modeling, Adaptation and Personalization: 8-11 July, 2018 at NTU, Singapore
+Authors: Jie Zhang, Tanja Mitrovic, David Chin, Li Chen
+Publication date: 2018/3/9
+Journal: ACM SIGWEB Newsletter
+
+Personalized recommendation with implicit feedback via learning pairwise preferences over item-sets
+Authors: Weike Pan, Li Chen, Zhong Ming
+Publication date: 2018
+Journal: Knowledge and Information Systems
+
+Inferring Students' Sense of Community from Their Communication Behavior in Online Courses
+Authors: Wen Wu, Li Chen, Qingchang Yang
+Publication date: 2017/7/9
+Conference: Proceedings of the 25th Conference on User Modeling, Adaptation and Personalization
+
+Based Screening Interface for Improving Users’ Decision Process in E-commerce
+Authors: Dongning Yan, Li Chen
+Publication date: 2017/7/9
+Conference: International Conference on HCI in Business, Government, and Organizations
+
+Session details: RS-recommender systems: theory and applications track
+Authors: Yong Zheng, Li Chen, Markus Zanker
+Publication date: 2017/4/3
+
+Explaining Recommendations Based on Feature Sentiments in Product Reviews
+Authors: Li Chen, Feng Wang
+Publication date: 2017/3/7
+Conference: Proceedings of the 22nd International Conference on Intelligent User Interfaces
+
+Editorial message: Special track on recommender systems
+Authors: Y Zheng, L Chen, Markus Zanker
+Publication date: 2017
+Journal: Proceedings of the Symposium on Applied Computing
+
+Investigating users’ eye movement behavior in critiquing-based recommender systems
+Authors: Li Chen, Feng Wang, Pearl Pu
+Publication date: 2017/1/1
+Journal: Ai Communications
+
+Inferring Users’ Critiquing Feedback on Recommendations from Eye Movements
+Authors: Li Chen, Feng Wang, Wen Wu
+Publication date: 2016/10/31
+Conference: International Conference on Case-Based Reasoning
+
+Where to Place Your Next Restaurant?: Optimal Restaurant Placement via Leveraging User-Generated Reviews
+Authors: Feng Wang, Li Chen, Weike Pan
+Publication date: 2016/10/24
+Conference: Proceedings of the 25th ACM International on Conference on Information and Knowledge Management
+
+Group Bayesian personalized ranking with rich interactions for one-class collaborative filtering
+Authors: Weike Pan, Li Chen
+Publication date: 2016/9/26
+Journal: Neurocomputing
+
+An Eye-Tracking Study: Implication to Implicit Critiquing Feedback Elicitation in Recommender Systems
+Authors: Li Chen, Feng Wang
+Publication date: 2016/7/13
+Conference: Proceedings of the 2016 Conference on User Modeling Adaptation and Personalization
+
+Incorporating sentiment into tag-based user profiles and resource profiles for personalized search in folksonomy
+Authors: Haoran Xie, Xiaodong Li, Tao Wang, Raymond YK Lau, Tak-Lam Wong, Li Chen, Fu Lee Wang, Qing Li
+Publication date: 2016/1/31
+Journal: Information Processing & Management
+
+Personalized search for social media via dominating verbal context
+Authors: Haoran Xie, Xiaodong Li, Tao Wang, Li Chen, Ke Li, Fu Lee Wang, Yi Cai, Qing Li, Huaqing Min
+Publication date: 2016/1/8
+Journal: Neurocomputing
+
+A Nonlinear State Space Model for Identifying At-Risk Students in Open Online Courses.
+Authors: Feng Wang, Li Chen
+Publication date: 2016
+Journal: International Educational Data Mining Society
+
+Students' Personality and Chat Room Behavior in Synchronous Online Learning.
+Authors: Wen Wu, Li Chen, Qingchang Yang
+Publication date: 2016
+Conference: UMAP (Extended Proceedings)
+
+Personality and Recommendation Diversity
+Authors: Li Chen, Wen Wu, Liang He
+Publication date: 2016
+
+Personality in Recommender Systems
+Authors: Li Chen
+Publication date: 2015/9/16
+Conference: Proceedings of the 3rd Workshop on Emotions and Personality in Personalized Systems 2015
+
+Review mining for estimating users’ ratings and weights for product aspects
+Authors: Feng Wang, Li Chen
+Publication date: 2015/8/18
+Journal: Web Intelligence
+
+An Empirical Study of User Decision Making Behavior in E-Commerce
+Authors: Dongning Yan, Li Chen
+Publication date: 2015/8/2
+Conference: International Conference on HCI in Business
+
+Augmenting service recommender systems by incorporating contextual opinions from user reviews
+Authors: Guanliang Chen, Li Chen
+Publication date: 2015/8/1
+Journal: User Modeling and User-Adapted Interaction
+
+Implicit acquisition of user personality for augmenting movie recommendations
+Authors: Wen Wu, Li Chen
+Publication date: 2015/6/29
+Conference: International Conference on User Modeling, Adaptation, and Personalization
+
+Recommender systems based on user reviews: the state of the art
+Authors: Li Chen, Guanliang Chen, Feng Wang
+Publication date: 2015/6/1
+Journal: User Modeling and User-Adapted Interaction
+
+Emotional States Associated with Music: Classification, Prediction of Changes, and Consideration in Recommendation
+Authors: James J. Deng, Clement H. C. Leung, Alfredo Milani, Li Chen
+Publication date: 2015/3
+Journal: ACM Transactions on Interactive Intelligent Systems (TiiS)
+
+Recommender Systems Handbook
+Authors: Anthony Jameson, Martijn C Willemsen, Alexander Felfernig, Marco de Gemmis, Pasquale Lops, Giovanni Semeraro, Li Chen
+Publication date: 2015
+Journal: by Francesco Ricci, Lior Rokach, and Bracha Shapira. Boston, MA, USA: Springer US
+
+Recommender Systems Handbook
+Authors: Marko Tkalcic, Li Chen
+Publication date: 2015
+Journal: by Francesco Ricci, Lior Rokach, and Bracha Shapira. Boston, MA, USA: Springer US
+
+Human decision making and recommender systems
+Authors: Anthony Jameson, Martijn C Willemsen, Alexander Felfernig, Marco de Gemmis, Pasquale Lops, Giovanni Semeraro, Li Chen
+Publication date: 2015
+
+Personality and Recommender Systems
+Authors: Marko Tkalcic, Li Chen
+Publication date: 2015
+
+News impact on stock price return via sentiment analysis
+Authors: Xiaodong Li, Haoran Xie, Li Chen, Jianping Wang, Xiaotie Deng
+Publication date: 2014/10/31
+Journal: Knowledge-Based Systems
+
+Experiment on sentiment embedded comparison interface
+Authors: Li Chen, Feng Wang, Luole Qi, Fengfeng Liang
+Publication date: 2014/7/31
+Journal: Knowledge-Based Systems
+
+Collaborative compound critiquing
+Authors: Haoran Xie, Li Chen, Feng Wang
+Publication date: 2014/7/7
+Conference: International Conference on User Modeling, Adaptation, and Personalization
+
+Recommendation based on contextual opinions
+Authors: Guanliang Chen, Li Chen
+Publication date: 2014/7/7
+Conference: International Conference on User Modeling, Adaptation, and Personalization
+
+An adaptive fusion algorithm for spam detection
+Authors: Congfu Xu, Baojun Su, Yunbiao Cheng, Weike Pan, Li Chen
+Publication date: 2014/7
+Journal: IEEE Intelligent Systems
+
+Sentiment-enhanced explanation of product recommendations
+Authors: Li Chen, Feng Wang
+Publication date: 2014/4/7
+Conference: Proceedings of the 23rd International Conference on World Wide Web
+
+Experiments on user experiences with recommender interfaces
+Authors: Li Chen, Pearl Pu
+Publication date: 2014/4/3
+Journal: Behaviour & Information Technology
+
+Foundations of Intelligent Systems: 20th International Symposium, ISMIS 2012, Macau, China, December 4-7, 2012, Proceedings
+Authors: Li Chen, Alexander Felfernig, Jiming Liu, Zbigniew W Ras
+Publication date: 2013/12/6
+
+Workshop on human decision making in recommender systems: decisions@ RecSys' 13
+Authors: Li Chen, Marco de Gemmis, Alexander Felfernig, Pasquale Lops, Francesco Ricci, Giovanni Semeraro, Martijn C Willemsen
+Publication date: 2013/10/12
+Conference: Proceedings of the 7th ACM conference on Recommender systems
+
+Human Decision Making and Recommender Systems
+Authors: Li Chen, Marco de Gemmis, Alexander Felfernig, Pasquale Lops, Francesco Ricci, Giovanni Semeraro
+Publication date: 2013/10/1
+Journal: ACM Transactions on Interactive Intelligent Systems (TiiS)
+
+Preference-based clustering reviews for augmenting e-commerce recommendation
+Authors: Li Chen, Feng Wang
+Publication date: 2013/9/30
+Journal: Knowledge-Based Systems
+
+GBPR: Group preference based bayesian personalized ranking for one-class collaborative filtering
+Authors: Weike Pan, Li Chen
+Publication date: 2013/8/3
+Conference: Proceedings of the Twenty-Third international joint conference on Artificial Intelligence
+
+Recommending interest groups to social media users by incorporating heterogeneous resources
+Authors: Wei Zeng, Li Chen
+Publication date: 2013/6/17
+Conference: International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems
+
+A unified framework for recommending items, groups and friends in social media environment via mutual resource fusion
+Authors: Li Chen, Wei Zeng, Quan Yuan
+Publication date: 2013/6/15
+Journal: Expert Systems with Applications
+
+Recommendation for new users with partial preferences by integrating product reviews with static specifications
+Authors: Feng Wang, Weike Pan, Li Chen
+Publication date: 2013/6/10
+Conference: International Conference on User Modeling, Adaptation, and Personalization
+
+Cofiset: Collaborative filtering via learning pairwise preferences over item-sets
+Authors: Weike Pan, Li Chen
+Publication date: 2013/5/2
+
+Using personality to adjust diversity in recommender systems
+Authors: Wen Wu, Li Chen, Liang He
+Publication date: 2013/5/1
+Conference: Proceedings of the 24th ACM Conference on Hypertext and Social Media
+
+How personality influences users' needs for recommendation diversity?
+Authors: Li Chen, Wen Wu, Liang He
+Publication date: 2013/4/27
+Conference: CHI'13 Extended Abstracts on Human Factors in Computing Systems
+
+Heterogeneous data fusion via matrix factorization for augmenting item, group and friend recommendations
+Authors: Wei Zeng, Li Chen
+Publication date: 2013/3/18
+Conference: Proceedings of the 28th Annual ACM Symposium on Applied Computing
+
+Generating virtual ratings from chinese reviews to augment online recommendations
+Authors: Weishi Zhang, Guiguang Ding, Li Chen, Chunping Li, Chengbo Zhang
+Publication date: 2013/2/1
+Journal: ACM Transactions on intelligent systems and technology (TIST)
+
+Decisions@ RecSys 2013, Human Decision Making in Recommender Systems. Proceedings of the 3rd Workshop on Human Decision Making in Recommender Systems, in conjunction with the …
+Authors: Li Chen, Marco Degemmis, Felfernig Alexander, Pasquale Lops, Ricci Francesco, Giovanni Semeraro, Willemsen Martijn
+Publication date: 2013
+
+Proceedings of the 3rd International Workshop on" Human Decision Making and Recommender Systems"(Decisions@ RecSys' 13)
+Authors: Li Chen, Alexander Felfernig, Pasquale Lops, Francesco Ricci, Giovanni Semeraro, Martijn Willemsen
+Publication date: 2013
+
+Welcome from the SRS 2013 Workshop Chairs
+Authors: Ido Guy, Li Chen, Michelle X Zhou
+Publication date: 2013/1/1
+Journal: WWW 2013 Companion-Proceedings of the 22nd International Conference on World Wide Web
+
+Introduction to the special section on social recommender systems
+Authors: Ido Guy, Li Chen, Michelle X Zhou
+Publication date: 2013/1/1
+Journal: ACM Transactions on Intelligent Systems and Technology (TIST)
+
+Proceedings of the 20th international conference on Foundations of Intelligent Systems
+Authors: Li Chen, Alexander Felfernig, Jiming Liu, Zbigniew W Raś
+Publication date: 2012/12/4
+
+Recommending inexperienced products via learning from consumer reviews
+Authors: Feng Wang, Li Chen
+Publication date: 2012/12/4
+Conference: 2012 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology
+
+Evaluating recommender systems from the user’s perspective: survey of the state of the art
+Authors: Pearl Pu, Li Chen, Rong Hu
+Publication date: 2012/10/1
+Journal: User Modeling and User-Adapted Interaction
+
+Comparison of feature-level learning methods for mining online consumer reviews
+Authors: Li Chen, Luole Qi, Feng Wang
+Publication date: 2012/8/31
+Journal: Expert Systems with Applications
+
+Multi-Output Recommender: Items, Groups and Friends, and Their Mutual Contributing Effects
+Authors: Wei Zeng, Li Chen
+Publication date: 2012/4/10
+Journal: arXiv preprint arXiv:1204.2032
+
+Critiquing-based recommenders: survey and emerging trends
+Authors: Li Chen, Pearl Pu
+Publication date: 2012/4/1
+Journal: User Modeling and User-Adapted Interaction
+
+Proceedings of the 20th International Symposium on Methodologies for Intelligent Systems (ISMIS'12)
+Authors: Li Chen, Alexander Felfernig, J Liu, ZW Ras
+Publication date: 2012
+
+Special Section on Al in Social Computing and Cultural Modeling Introduction
+Authors: Ido Guy, Li Chen, Michelle X Zhou
+Publication date: 2012/1/1
+
+Recommendation based on Mining Product Reviewers’ Preference Similarity Network
+Authors: Feng Wang, Li Chen
+Publication date: 2012
+Journal: Proceedings of 6th SNAKDD workshop (Page: 166 Year of Publication: 2012 ISBN: 78-1-4503-1544-9)
+
+Augmenting Collaborative Recommenders by Fusing Social Relationships: Membership and Friendship
+Authors: Quan Yuan, Li Chen, Shiwan Zhao
+Publication date: 2012
+Journal: Recommender Systems for the Social Web
+
+Social opinion mining for supporting buyers’ complex decision making: exploratory user study and algorithm comparison
+Authors: Li Chen, Luole Qi
+Publication date: 2011/11/1
+Journal: Social Network Analysis and Mining
+
+RecSys' 11 workshop on human decision making in recommender systems
+Authors: Alexander Felfernig, Li Chen, Monika Mandl
+Publication date: 2011/10/23
+Conference: Proceedings of the fifth ACM conference on Recommender systems
+
+Factorization vs. regularization: fusing heterogeneous social relationships in top-n recommendation
+Authors: Quan Yuan, Li Chen, Shiwan Zhao
+Publication date: 2011/10/23
+Conference: Proceedings of the fifth ACM conference on Recommender systems
+
+Users’ Decision Behavior in Recommender Interfaces: Impact of Layout Design
+Authors: Li Chen, Ho Keung Tsoi
+Publication date: 2011/10/23
+Journal: RecSys’ 11 Workshop on Human Decision Making in Recommender Systems
+
+A user-centric evaluation framework for recommender systems
+Authors: Pearl Pu, Li Chen, Rong Hu
+Publication date: 2011/10/23
+Conference: Proceedings of the fifth ACM conference on Recommender systems
+
+From privacy concern to uses of social network sites: A cultural comparison via user survey
+Authors: Ho Keung Tsoi, Li Chen
+Publication date: 2011/10/9
+Conference: 2011 IEEE Third International Conference on Privacy, Security, Risk and Trust and 2011 IEEE Third International Conference on Social Computing
+
+Introduction to special issue on social recommender systems
+Authors: I Guy, L Chen, MICHELLE X ZHOU
+Publication date: 2011/10
+Journal: ACM Trans. Intell. Syst. Technol
+
+Privacy concern and trust in using social network sites: a comparison between french and chinese users
+Authors: Li Chen, Ho Keung Tsoi
+Publication date: 2011/9/5
+Conference: IFIP Conference on Human-Computer Interaction
+
+Comparison of model-based learning methods for feature-level opinion mining
+Authors: Luole Qi, Li Chen
+Publication date: 2011/8/22
+Conference: 2011 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology
+
+Users' eye gaze pattern in organization-based recommender interfaces
+Authors: Li Chen, Pearl Pu
+Publication date: 2011/2/13
+Conference: Proceedings of the 16th international conference on Intelligent user interfaces
+
+Analysis of user tags in social music sites: Implications for cultural differences
+Authors: Li Chen, Ho Keung Tsoi
+Publication date: 2011
+Journal: Extended Abstracts of ACM Conference on Computer Supported Cooperative Work (CSCW’11). ACM
+
+Proceedings of the 1st International Workshop on" Human Decision Making and Recommender Systems"(Decisions@ RecSys' 11)
+Authors: Alexander Felfernig, Li Chen, Monika Mandl
+Publication date: 2011
+
+Incremental tag-aware user profile building to augment item recommendations
+Authors: Ho Keung Tsoi, Li Chen
+Publication date: 2011
+Journal: 2nd Workshop on Social Recommender Systems (SRS’11) in CSCW’11
+
+Usability Guidelines for Product Recommenders Based on Example Critiquing Research
+Authors: Pearl Pu, Boi Faltings, Li Chen, Jiyong Zhang, Paolo Viappiani
+Publication date: 2011
+Journal: Recommender Systems Handbook
+
+Augmenting chinese online video recommendations by using virtual ratings predicted by review sentiment classification
+Authors: Weishi Zhang, Guiguang Ding, Li Chen, Chunping Li
+Publication date: 2010/12/13
+Conference: 2010 IEEE International Conference on Data Mining Workshops
+
+Towards three-stage recommender support for online consumers: implications from a user study
+Authors: Li Chen
+Publication date: 2010/12/12
+Conference: International Conference on Web Information Systems Engineering
+
+A linear-chain CRF-based learning approach for web opinion mining
+Authors: Luole Qi, Li Chen
+Publication date: 2010/12/12
+Conference: International Conference on Web Information Systems Engineering
+
+A diary study of understanding contextual information needs during leisure traveling
+Authors: Li Chen, Luole Qi
+Publication date: 2010/8/18
+Conference: Proceedings of the third symposium on Information interaction in context
+
+Understanding buyers' social information needs during purchase decision process
+Authors: Li Chen
+Publication date: 2010/8/2
+Conference: Proceedings of the 12th International Conference on Electronic Commerce: Roadmap for the Future of Electronic Business
+
+Temporal recommendation on graphs via long-and short-term preference fusion
+Authors: Liang Xiang, Quan Yuan, Shiwan Zhao, Li Chen, Xiatian Zhang, Qing Yang, Jimeng Sun
+Publication date: 2010/7/25
+Conference: Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining
+
+Eye-tracking study of user behavior in recommender interfaces
+Authors: Li Chen, Pearl Pu
+Publication date: 2010/6/20
+Conference: International Conference on User Modeling, Adaptation, and Personalization
+
+Experiments on the preference-based organization interface in recommender systems
+Authors: Li Chen, Pearl Pu
+Publication date: 2010/3/1
+Journal: ACM Transactions on Computer-Human Interaction (TOCHI)
+
+Workshop on social recommender systems
+Authors: Ido Guy, Li Chen, Michelle X Zhou
+Publication date: 2010/2/7
+Conference: Proceedings of the 15th international conference on Intelligent user interfaces
+
+Social influence of product popularity on consumer decisions: usability study of Flickr camera finder
+Authors: Li Chen
+Publication date: 2010/2/7
+Conference: Proceedings of the 15th international conference on Intelligent user interfaces
+
+User evaluation framework of recommender systems
+Authors: Li Chen, Pearl Pu
+Publication date: 2010/2/7
+Journal: Workshop SRS
+
+Usability Guidelines for Preference-based Product Recommenders
+Authors: Pearl Pu, Boi Faltings, Li Chen, Jiyong Zhang
+Publication date: 2010
+Journal: Recommender Systems Handbook
+
+Proceedings of 2010 Workshop on Social Recommender Systems In conjunction with ACM 2010 International Conference on Intelligent User Interfaces (IUI’2010)
+Authors: Ido Guy, Li Chen, Michelle X Zhou
+Publication date: 2010
+
+Augmenting collaborative recommender by fusing explicit social relationships
+Authors: Quan Yuan, Shiwan Zhao, Li Chen, Yan Liu, Shengchao Ding, Xiatian Zhang, Wentao Zheng
+Publication date: 2009/10/25
+Journal: Workshop on Recommender Systems and the Social Web, Recsys 2009
+
+Adaptive tradeoff explanations in conversational recommenders
+Authors: Li Chen
+Publication date: 2009/10/23
+Conference: Proceedings of the third ACM conference on Recommender systems
+
+Adapting recommendations organization to user preferences
+Authors: Li Chen
+Publication date: 2009/9/15
+Conference: 2009 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology
+
+Interaction design guidelines on critiquing-based recommender systems
+Authors: Li Chen, Pearl Pu
+Publication date: 2009/8/1
+Journal: User Modeling and User-Adapted Interaction
+
+How users perceive and appraise personalized recommendations
+Authors: Nicolas Jones, Pearl Pu, Li Chen
+Publication date: 2009/6/22
+Conference: International Conference on User Modeling, Adaptation, and Personalization
+
+User-involved preference elicitation for product search and recommender systems
+Authors: Pearl Pu, Li Chen
+Publication date: 2009/1/18
+Journal: AI Magazine
+
+Critiquing-based map information seeking
+Authors: Li Chen, Pearl Pu
+Publication date: 2009
+Journal: Proc. IHCI’09
+
+A cross-cultural user evaluation of product recommender interfaces
+Authors: Li Chen, Pearl Pu
+Publication date: 2008/10/23
+Conference: Proceedings of the 2008 ACM conference on Recommender systems
+
+User decision improvement and trust building in product recommender systems
+Authors: CHEN Li
+Publication date: 2008/7/28
+
+Evaluating product search and recommender systems for E-commerce environments
+Authors: Pearl Pu, Li Chen, Pratyush Kumar
+Publication date: 2008/6/1
+Journal: Electronic Commerce Research
+
+Semester Project-Final Report Implementation of an interactive travel map
+Authors: Li Chen, Pearl Pu
+Publication date: 2008/1/12
+
+The evaluation of a hybrid critiquing system with preference-based recommendations organization
+Authors: Li Chen, Pearl Pu
+Publication date: 2007/10/19
+Conference: Proceedings of the 2007 ACM conference on Recommender systems
+
+Trust-inspiring explanation interfaces for recommender systems
+Authors: Pearl Pu, Li Chen
+Publication date: 2007/8/31
+Journal: Knowledge-Based Systems
+
+Preference-based organization interfaces: aiding user critiques in recommender systems
+Authors: Li Chen, Pearl Pu
+Publication date: 2007/7/25
+Conference: International Conference on User Modeling
+
+Hybrid critiquing-based recommender systems
+Authors: Li Chen, Pearl Pu
+Publication date: 2007/1/28
+Conference: Proceedings of the 12th international conference on Intelligent user interfaces
+
+Collaborative Filtering and Recommender Systems-Preference-Based Organization Interfaces: Aiding User Critiques in Recommender Systems
+Authors: Li Chen, Pearl Pu
+Publication date: 2007
+Journal: Lecture Notes in Computer Science
+
+Evaluating critiquing-based recommender agents
+Authors: Li Chen, Pearl Pu
+Publication date: 2006/7/16
+Journal: Proceedings of the National Conference on Artificial Intelligence
+
+Trust building with explanation interfaces
+Authors: Pearl Pu, Li Chen
+Publication date: 2006/1/29
+Conference: Proceedings of the 11th international conference on Intelligent user interfaces
+
+Trust building in recommender agents
+Authors: Li Chen, Pearl Pu
+Publication date: 2005/10/3
+Journal: Proceedings of the Workshop on Web Personalization, Recommender Systems and Intelligent User Interfaces at the 2nd International Conference on E-Business and Telecommunication Networks
+
+Integrating tradeoff support in product search tools for e-commerce sites
+Authors: Pearl Pu, Li Chen
+Publication date: 2005/6/5
+Conference: Proceedings of the 6th ACM conference on Electronic commerce
+
+Survey of preference elicitation methods
+Authors: Li Chen, Pearl Pu
+Publication date: 2004/7
+
+Survey of Preference Elicitation Methods
+Authors: Pearl Pu, Li Chen
+Publication date: 2004
+
+Constructive Nature of Preference Elicitation
+Authors: Li Chen
+Publication date: 2003/12/16
+
+CRS-Que: A User-Centric Evaluation Framework for Conversational Recommender Systems
+Authors: Yucheng Jin, Li Chen, Wanling Cai, Xianglin Zhao
+Journal: ACM Transactions on Recommender Systems
+
+The Way You Test Me Matters: Effects of Psychological Assessment Design on User Response to Open-Ended Questions in a Survey Chatbot for Youth Mental Health
+Authors: Yucheng Jin, Li Chen, Xianglin Zhao, Wanling Cai
+Journal: Available at SSRN 4379988
+
+Impacts of Personal Characteristics on User Trust in Conversational Recommender Systems
+
+Session details: Theme: System software and security: RS-recommender systems track
+Authors: Yong Zheng, Markus Zanker, Li Chen, Panagiotis Symeonidis
+
+Session details: Theme: System software and security: RS-Recommender systems: Theory and applications track
+Authors: Yong Zheng, Li Chen, Markus Zanker, Panagiotis Symeonidis
+
+BU-Trace: A Mobile System for Privacy-Preserving Intelligent Contact Tracing
+Authors: Zhe Peng, Jinbin Huang, Haixin Wang, Shihao Wang, Xiaowen Chu, Xinzhi Zhang, Li Chen, Xin Huang, Xiaoyi Fu, Yike Guo, Jianliang Xu
+
+SRS 2014 Chairs’ Welcome
+Authors: Jian Wang, Ido Guy, Li Chen
+
+WI-IAT Workshops 2012
+Authors: Yue Xu, Hui Wang, Li Chen, Niall Rooney, Yuefeng Li, Alan Said, Giovanni Semeraro, Huizhi Liang, Guandong Xu, Juan Liu, Raymond YK Lau, Stuart E Middleton, Touhid Bhuiyan, Xiaoying Gao, Xiuzhen Zhang, Matthias Baumgarten, Sean Gaines, Chunping Li, Enrique Alfonseca, Nicoletta Calzolari, Vladimir Dobrynin, Marjorie Freedman, Diana Maynard, Marie-Francine Moens, Rutu Mulkar-Mehta, Roberto Navigli, German Rigau, Alan Ritter, Fabio Massimo Zansotto
+
+Evaluating product search and recommender systems for E-commerce environments.(English) Zbl 1144.68313
+Authors: Pearl Pu, Li Chen, Pratyush Kumar
+
+Usability Guidelines for Product Search Tools Used in E-Commerce Environments
+Authors: Pearl Pu, Boi Faltings, Li Chen, Jiyong Zhang
